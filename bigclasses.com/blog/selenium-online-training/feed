@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Selenium &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/selenium-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Selenium &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Selenium Basics and Introduction-infogrphic</title>
+		<link>https://bigclasses.com/blog/selenium-basics-and-introduction</link>
+		<comments>https://bigclasses.com/blog/selenium-basics-and-introduction#respond</comments>
+		<pubDate>Tue, 20 Oct 2015 09:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Selenium]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[selenium basics]]></category>
+		<category><![CDATA[selenium infographic]]></category>
+		<category><![CDATA[selenium introduction]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4280</guid>
+		<description><![CDATA[Selenium Basics infographic About Selenium Tools Online Training @ BigClasses BigClasses is one of the best online training organizations offer Selenium Tools training. We have qualified and experienced faculties who..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/selenium-basics-and-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Features of Selenium Webdriver</title>
+		<link>https://bigclasses.com/blog/features-of-selenium-webdriver</link>
+		<comments>https://bigclasses.com/blog/features-of-selenium-webdriver#respond</comments>
+		<pubDate>Tue, 22 Sep 2015 09:16:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Selenium]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Automation testing - present position]]></category>
+		<category><![CDATA[Career Growth with Selenium Testing]]></category>
+		<category><![CDATA[Selenium WebDriver]]></category>
+		<category><![CDATA[The features of selenium webdriver include]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3946</guid>
+		<description><![CDATA[Selenium WebDriver Selenium web-driver is one of the most dominant and famous tools of selenium toolkit. It is an extension to selenium RC with the most commanding benefits addressing the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/features-of-selenium-webdriver/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basics of Selenium IDE</title>
+		<link>https://bigclasses.com/blog/basics-of-selenium-ide</link>
+		<comments>https://bigclasses.com/blog/basics-of-selenium-ide#respond</comments>
+		<pubDate>Mon, 21 Sep 2015 09:59:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Selenium]]></category>
+		<category><![CDATA[Features of Selenium IDE]]></category>
+		<category><![CDATA[Selenium IDE]]></category>
+		<category><![CDATA[Selenium IDE Options Dialog Box]]></category>
+		<category><![CDATA[Selenium IDE v1.9.1]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3930</guid>
+		<description><![CDATA[Selenium IDE: The IDE in Selenium stands for the Integrated Development Environment. It is an easy and uncomplicated tool in selenium suite; it is the quickest method of creating scripts...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/basics-of-selenium-ide/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP SD &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-sd-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP SD &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Create Customer Master Using SAP SD</title>
+		<link>https://bigclasses.com/blog/how-to-create-customer-master-using-sap-sd</link>
+		<comments>https://bigclasses.com/blog/how-to-create-customer-master-using-sap-sd#respond</comments>
+		<pubDate>Fri, 06 Dec 2013 14:13:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2742</guid>
+		<description><![CDATA[SAP SD or SAP Sales and Distribution consist of all business procedures necessary in selling, shipping and billing of a product. SAP SD is strongly integrated with the other SAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/how-to-create-customer-master-using-sap-sd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grab the Knowledge from Order to Delivery – by Learning SAP SD Online</title>
+		<link>https://bigclasses.com/blog/grab-the-knowledge-from-order-to-delivery-by-learning-sap-sd-online</link>
+		<comments>https://bigclasses.com/blog/grab-the-knowledge-from-order-to-delivery-by-learning-sap-sd-online#respond</comments>
+		<pubDate>Fri, 22 Nov 2013 14:53:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2657</guid>
+		<description><![CDATA[Learn SAP SD and save time from your daily busy schedule by making your move for SAP SD online training. You can learn SAP SD online by joining BigClasses SAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/grab-the-knowledge-from-order-to-delivery-by-learning-sap-sd-online/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP SD TRAINING</title>
+		<link>https://bigclasses.com/blog/sap-sd-training</link>
+		<comments>https://bigclasses.com/blog/sap-sd-training#respond</comments>
+		<pubDate>Fri, 24 May 2013 08:20:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2225</guid>
+		<description><![CDATA[What is SAP SD? SAP SD means SALES AND DISTRIBUTION PROCESS. Its key functions cover an initial order till billing &#38; delivering the goods. SAP SD allows the clients to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-sd-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP SD Online Training Course Content</title>
+		<link>https://bigclasses.com/blog/sap-sd-online-training-course-content</link>
+		<comments>https://bigclasses.com/blog/sap-sd-online-training-course-content#respond</comments>
+		<pubDate>Wed, 22 May 2013 08:35:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2200</guid>
+		<description><![CDATA[SAP SD Online Training Content Introduction to ERP/SAP Three Tier Architecture Sales Overview Section I: Enterprise Structure Enterprise structure in Sales and Distribution Define organizational elements Assign organizational elements Section..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-sd-online-training-course-content/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP SD Configuration and Objectives</title>
+		<link>https://bigclasses.com/blog/sap-sd-configuration-and-objectives</link>
+		<comments>https://bigclasses.com/blog/sap-sd-configuration-and-objectives#respond</comments>
+		<pubDate>Mon, 22 Apr 2013 12:33:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1733</guid>
+		<description><![CDATA[Configuration Points: The biggest &#8220;Gotchas&#8221; in configuring sales orders, and how to avoid them Exactly what happens when an order is entered? Follow the sequence of events in sales order..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-sd-configuration-and-objectives/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Sales and Distribution Process</title>
+		<link>https://bigclasses.com/blog/sap-sales-and-distribution-process</link>
+		<comments>https://bigclasses.com/blog/sap-sales-and-distribution-process#respond</comments>
+		<pubDate>Sat, 20 Apr 2013 09:31:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+		<category><![CDATA[online sap sd training]]></category>
+		<category><![CDATA[sap sd demo classes]]></category>
+		<category><![CDATA[sap sd online training]]></category>
+		<category><![CDATA[sap sd training]]></category>
+		<category><![CDATA[sap sd tutorial classes]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1718</guid>
+		<description><![CDATA[This course will provide an instructional overview of the sales and distribution activities, organizational structures, master data and reports that support the Sales and Distribution processing cycle. Throughout this course, you will have..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-sales-and-distribution-process/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP SD Online Training</title>
+		<link>https://bigclasses.com/blog/sap-sd-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-sd-online-training#respond</comments>
+		<pubDate>Sat, 30 Mar 2013 09:15:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP SD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1383</guid>
+		<description><![CDATA[SAP Sales and Distribution (SAP SD) The Sales and Distribution (SAP SD) consists of all master data, system configuration, and transactions to complete the Order to Cash process. It includes..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-sd-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

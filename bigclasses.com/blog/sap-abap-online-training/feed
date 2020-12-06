@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP ABAP &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-abap-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP ABAP &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Structure of an ABAP Application Server</title>
+		<link>https://bigclasses.com/blog/structure-of-an-abap-application-server</link>
+		<comments>https://bigclasses.com/blog/structure-of-an-abap-application-server#respond</comments>
+		<pubDate>Thu, 13 Feb 2014 14:58:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap aplication server]]></category>
+		<category><![CDATA[sap abap demo]]></category>
+		<category><![CDATA[sap abap learning online]]></category>
+		<category><![CDATA[sap abap online classes]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2802</guid>
+		<description><![CDATA[&#160; Components of Application Server Work Processes Dispatcher Gateway Shared Memory Database Connection Work Processes An application server encloses work processes, which are constituents that can run an application. Each..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/structure-of-an-abap-application-server/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Be a Successful SAP ABAP Developer</title>
+		<link>https://bigclasses.com/blog/how-to-be-a-successful-sap-abap-developer</link>
+		<comments>https://bigclasses.com/blog/how-to-be-a-successful-sap-abap-developer#respond</comments>
+		<pubDate>Mon, 09 Dec 2013 13:35:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[abap online training]]></category>
+		<category><![CDATA[sap abap course online sap abap video training]]></category>
+		<category><![CDATA[sap abap developement project]]></category>
+		<category><![CDATA[sap abap faq]]></category>
+		<category><![CDATA[sap abap free demo]]></category>
+		<category><![CDATA[sap abap learning]]></category>
+		<category><![CDATA[sap abap materials]]></category>
+		<category><![CDATA[sap abap notes]]></category>
+		<category><![CDATA[SAP ABAP Online Training.]]></category>
+		<category><![CDATA[sap abap programmer]]></category>
+		<category><![CDATA[sap bap interview questions]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2756</guid>
+		<description><![CDATA[ABAP development is very critical in addressing any solution gaps, custom development on any SAP project. It is very important to know a lot of diverse programming aspects during a..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/how-to-be-a-successful-sap-abap-developer/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP ABAP Online Training for the Beginners</title>
+		<link>https://bigclasses.com/blog/sap-abap-online-training-for-the-beginners</link>
+		<comments>https://bigclasses.com/blog/sap-abap-online-training-for-the-beginners#respond</comments>
+		<pubDate>Tue, 19 Nov 2013 13:30:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap course]]></category>
+		<category><![CDATA[sap abap demo]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+		<category><![CDATA[sap abap training]]></category>
+		<category><![CDATA[sap abap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2636</guid>
+		<description><![CDATA[At BigClasses we offer SAP ABAP online training for the learners. In SAP ABAP online training course, we will transform the necessary skills needed to understand SAP ABAP programming and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-abap-online-training-for-the-beginners/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP ABAP Workbench &#124; Advantages of ABAP Workbench</title>
+		<link>https://bigclasses.com/blog/sap-abap-workbench-advantages-of-abap-workbench</link>
+		<comments>https://bigclasses.com/blog/sap-abap-workbench-advantages-of-abap-workbench#respond</comments>
+		<pubDate>Wed, 09 Oct 2013 13:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap course]]></category>
+		<category><![CDATA[sap abap demo]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+		<category><![CDATA[sap abap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2460</guid>
+		<description><![CDATA[The SAP ABAP Workbench is pool of tools used to develop, test and run ABAP programs. All tools are integrated. ABAP Workbench tools are: 1.ABAP Editor It is used to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-abap-workbench-advantages-of-abap-workbench/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why SAP ABAP Online Training?</title>
+		<link>https://bigclasses.com/blog/why-sap-abap-online-training</link>
+		<comments>https://bigclasses.com/blog/why-sap-abap-online-training#respond</comments>
+		<pubDate>Fri, 04 Oct 2013 14:10:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2377</guid>
+		<description><![CDATA[Introduction: ABAP stands for Advanced Business Application Programming. It is a high-level programming language created by the German software company SAP.It is an interpreted programming language that runs in the SAP ABAP Runtime environment. ABAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/why-sap-abap-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP ABAP Online Demo</title>
+		<link>https://bigclasses.com/blog/sap-abap-online-demo</link>
+		<comments>https://bigclasses.com/blog/sap-abap-online-demo#respond</comments>
+		<pubDate>Fri, 23 Aug 2013 13:14:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap application server process]]></category>
+		<category><![CDATA[sap abap course]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+		<category><![CDATA[sap abap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2295</guid>
+		<description><![CDATA[The leading provider of solutions to assess and protect ERP systems from cyber-attacks, today announces extended support to the Information Security community by showcasing a new version of Onapsis X1..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-abap-online-demo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Remote Function Call (RFC) within an SAP System</title>
+		<link>https://bigclasses.com/blog/remote-function-call-rfc-within-an-sap-system</link>
+		<comments>https://bigclasses.com/blog/remote-function-call-rfc-within-an-sap-system#respond</comments>
+		<pubDate>Thu, 02 May 2013 12:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap course]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+		<category><![CDATA[sap abap training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1805</guid>
+		<description><![CDATA[A remote function call is a call to a function module running in a system different from the caller&#8217;s. The remote function can also be called from within the same..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/remote-function-call-rfc-within-an-sap-system/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP ABAP Course Overview</title>
+		<link>https://bigclasses.com/blog/sap-abap-online-course-overview</link>
+		<comments>https://bigclasses.com/blog/sap-abap-online-course-overview#respond</comments>
+		<pubDate>Thu, 02 May 2013 08:17:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap course]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+		<category><![CDATA[sap abap training]]></category>
+		<category><![CDATA[sap abap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1802</guid>
+		<description><![CDATA[SAP ABAP Course Overview The purpose of this SAP ABAP course is to provide an overview of the SAP programming language ABAP  ECC7. The SAP ABAP course will show the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-abap-online-course-overview/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP ABAP Course Online Training</title>
+		<link>https://bigclasses.com/blog/sap-abap-course-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-abap-course-online-training#respond</comments>
+		<pubDate>Fri, 01 Feb 2013 16:10:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap abap course]]></category>
+		<category><![CDATA[SAP ABAP ECC7]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+		<category><![CDATA[sap abap training]]></category>
+		<category><![CDATA[sap abap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=801</guid>
+		<description><![CDATA[The purpose of this SAP ABAP course is to supply an outline of the SAP programing language ABAP ECC7. The SAP ABAP course can show the structural pre-requisites that are..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-abap-course-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Applications and Uses</title>
+		<link>https://bigclasses.com/blog/sap-applications-and-uses</link>
+		<comments>https://bigclasses.com/blog/sap-applications-and-uses#respond</comments>
+		<pubDate>Tue, 08 Jan 2013 14:41:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap]]></category>
+		<category><![CDATA[sap basis]]></category>
+		<category><![CDATA[sap bi]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[sap course]]></category>
+		<category><![CDATA[SAP FICO]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap online training]]></category>
+		<category><![CDATA[sap sd]]></category>
+		<category><![CDATA[sap training]]></category>
+		<category><![CDATA[sap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=548</guid>
+		<description><![CDATA[For Arts and Science : Information and Technology trade is one in all the foremost extremely regarded industries because it offers career opportunities for every kind of individuals. Graduates with..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-applications-and-uses/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

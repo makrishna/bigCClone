@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DataStage &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/datastage-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>DataStage &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>IBM Cognos Online Training</title>
+		<link>https://bigclasses.com/blog/ibm-cognos-online-training</link>
+		<comments>https://bigclasses.com/blog/ibm-cognos-online-training#respond</comments>
+		<pubDate>Wed, 11 Dec 2013 13:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2771</guid>
+		<description><![CDATA[Cognos is considered as an expert software suit of IBM&#8217;s BI. It is mainly designed for the overall performance management of an enterprise. It allows the business owner to access..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-cognos-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Overview on DataStage Architecture</title>
+		<link>https://bigclasses.com/blog/overview-on-datastage-architecture</link>
+		<comments>https://bigclasses.com/blog/overview-on-datastage-architecture#respond</comments>
+		<pubDate>Fri, 29 Nov 2013 13:38:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[datastage 7.5 training]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[datastage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2704</guid>
+		<description><![CDATA[DataStage is considered as a useful ETL tool that uses graphical presentation to process data integration.It is also available in various versions in current market. DataStage Architecture: DataStage follows the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/overview-on-datastage-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Save Time by Joining DataStage Online Training at BigClasses</title>
+		<link>https://bigclasses.com/blog/save-time-by-joining-datastage-online-training-at-bigclasses</link>
+		<comments>https://bigclasses.com/blog/save-time-by-joining-datastage-online-training-at-bigclasses#respond</comments>
+		<pubDate>Fri, 15 Nov 2013 12:53:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[Datastage course]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[datastage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2591</guid>
+		<description><![CDATA[DataStage is a broadly used ETL tool for extracting the data from various sources and loading it into the target after applying the required transformation on it.We are providing DataStage..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/save-time-by-joining-datastage-online-training-at-bigclasses/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Datastage architecture and learn online datastage</title>
+		<link>https://bigclasses.com/blog/datastage-architecture-and-learn-online-datastage</link>
+		<comments>https://bigclasses.com/blog/datastage-architecture-and-learn-online-datastage#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 10:47:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[Datastage course]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[datastage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2505</guid>
+		<description><![CDATA[DataStage is an ETL tool and it uses a graphical representation to build data integration. It is available in various versions. The architecture of dataStage is a client-server architecture. We..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/datastage-architecture-and-learn-online-datastage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DATA STAGE architecture and new features</title>
+		<link>https://bigclasses.com/blog/data-stage-architecture-and-new-features</link>
+		<comments>https://bigclasses.com/blog/data-stage-architecture-and-new-features#respond</comments>
+		<pubDate>Thu, 17 Oct 2013 12:57:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Data Stage course]]></category>
+		<category><![CDATA[Data Stage Online training]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[Data Stage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2468</guid>
+		<description><![CDATA[Data Stage is an ETL tool in the Business Intelligence market. It works for Extraction, Transformation and Loading the data from the sources to the target. Data Stage allows the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/data-stage-architecture-and-new-features/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Datastage Online Training @ BigClasses Hyderabad</title>
+		<link>https://bigclasses.com/blog/datastage-online-training-bigclasses-hyderabad</link>
+		<comments>https://bigclasses.com/blog/datastage-online-training-bigclasses-hyderabad#respond</comments>
+		<pubDate>Tue, 01 Oct 2013 13:29:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2356</guid>
+		<description><![CDATA[IBM InfoSphere DataStage is a part of IBM Information Server Suit. DataStage enables us to define the extraction process of data from multiple source systems, transform it in ways that..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/datastage-online-training-bigclasses-hyderabad/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Make Your job prospectus in DataStage</title>
+		<link>https://bigclasses.com/blog/make-your-job-prospectus-in-datastage</link>
+		<comments>https://bigclasses.com/blog/make-your-job-prospectus-in-datastage#respond</comments>
+		<pubDate>Thu, 19 Sep 2013 12:57:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[datastage]]></category>
+		<category><![CDATA[Datastage course]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[datastage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2330</guid>
+		<description><![CDATA[DataStage is a part of IBM Information server.  To extract the data we need from multiple sources and transform it in ways to make it more valuable. DataStage is defined..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/make-your-job-prospectus-in-datastage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is DATA STAGE ?</title>
+		<link>https://bigclasses.com/blog/what-is-data-stage</link>
+		<comments>https://bigclasses.com/blog/what-is-data-stage#respond</comments>
+		<pubDate>Sat, 25 May 2013 10:39:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Administrator clint]]></category>
+		<category><![CDATA[Create Project]]></category>
+		<category><![CDATA[Data Quality]]></category>
+		<category><![CDATA[Datastage Introduction]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[DEV/DEBUG STAGES]]></category>
+		<category><![CDATA[End loop Activity]]></category>
+		<category><![CDATA[FILE STAGES]]></category>
+		<category><![CDATA[Introduction of Data Modeling]]></category>
+		<category><![CDATA[Introduction of Data warehousing]]></category>
+		<category><![CDATA[Logical Modeling]]></category>
+		<category><![CDATA[ODBC]]></category>
+		<category><![CDATA[OLTP Vs Data warehouse Applications]]></category>
+		<category><![CDATA[Oracle Database]]></category>
+		<category><![CDATA[Parameter passing]]></category>
+		<category><![CDATA[PROCESSING STAGES]]></category>
+		<category><![CDATA[Reference Match Stage]]></category>
+		<category><![CDATA[teradata]]></category>
+		<category><![CDATA[Types of ETL tools]]></category>
+		<category><![CDATA[Windows server]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2258</guid>
+		<description><![CDATA[What is Data Stage? It is an ETL tool. Used for extraction, transformation and loading. ideal tool for data integration projects system migrations Importing, extracting and creating metadata are within..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/what-is-data-stage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM Infosphere DATASTAGE online training</title>
+		<link>https://bigclasses.com/blog/ibm-infosphere-datastage-online-training</link>
+		<comments>https://bigclasses.com/blog/ibm-infosphere-datastage-online-training#respond</comments>
+		<pubDate>Tue, 23 Apr 2013 06:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[Datastage course]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[datastage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1736</guid>
+		<description><![CDATA[IBM InfoSphere DataStage integrates information across multiple and high volumes of information sources and target applications.IBM InfoSphere DataStage is an ETL tool and a part of the IBM info Platforms Solutions..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-infosphere-datastage-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DATASTAGE Online Course</title>
+		<link>https://bigclasses.com/blog/datastage-online-course</link>
+		<comments>https://bigclasses.com/blog/datastage-online-course#respond</comments>
+		<pubDate>Mon, 11 Mar 2013 10:07:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[data stage training]]></category>
+		<category><![CDATA[Datastage course]]></category>
+		<category><![CDATA[Datastage Online Training]]></category>
+		<category><![CDATA[datastage tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1175</guid>
+		<description><![CDATA[Course Overview: This course can justify the ideas of DataStage Enterprise Edition, its design and the way to use this to &#8216;real life&#8217; situations in an exceedingly business case-study during..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/datastage-online-course/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BigData &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/bigdata/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>BigData &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is big data analytics?</title>
+		<link>https://bigclasses.com/blog/what-is-big-data-analytics</link>
+		<comments>https://bigclasses.com/blog/what-is-big-data-analytics#respond</comments>
+		<pubDate>Wed, 06 Dec 2017 07:29:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BigData]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=5253</guid>
+		<description><![CDATA[Before we start up with the Big Data and Hadoop Tutorial, it is very important to know why to learn the same and why it is very important to be..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/what-is-big-data-analytics/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Big Data Analytics is the best career move?</title>
+		<link>https://bigclasses.com/blog/big-data-analytics-best-career-move</link>
+		<comments>https://bigclasses.com/blog/big-data-analytics-best-career-move#respond</comments>
+		<pubDate>Thu, 23 Nov 2017 07:17:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BigData]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=5171</guid>
+		<description><![CDATA[Big Data is very much in demand and everywhere. Today, almost every company, no matter what domain is, they are using the same in order to collect and preserve whatever..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/big-data-analytics-best-career-move/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

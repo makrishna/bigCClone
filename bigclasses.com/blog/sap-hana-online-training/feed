@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP HANA &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-hana-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP HANA &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SAP HANA Lifecycle Management</title>
+		<link>https://bigclasses.com/blog/sap-hana-lifecycle-management</link>
+		<comments>https://bigclasses.com/blog/sap-hana-lifecycle-management#respond</comments>
+		<pubDate>Tue, 27 May 2014 10:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana classes]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[sap hana online classes]]></category>
+		<category><![CDATA[sap hana online course]]></category>
+		<category><![CDATA[sap hana online trainig]]></category>
+		<category><![CDATA[sap hana training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=3261</guid>
+		<description><![CDATA[SAP HANA includes lifecycle management system for updating and customizing your SAP HANA platform and for managing products and transports of SAP HANA. Some of the services offered by SAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-lifecycle-management/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Connect to SAP HANA &#8211; Enhance Your Skills in In-Memory Database</title>
+		<link>https://bigclasses.com/blog/connect-to-sap-hana-enhance-your-skills-in-in-memory-database</link>
+		<comments>https://bigclasses.com/blog/connect-to-sap-hana-enhance-your-skills-in-in-memory-database#respond</comments>
+		<pubDate>Tue, 19 Nov 2013 13:48:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP HANA Online]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2640</guid>
+		<description><![CDATA[The following steps are explaining how to connect SAP HANA tables to Excel: Open Excel Go to Data Tab From other sources click on from Microsoft Query Then, you will..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/connect-to-sap-hana-enhance-your-skills-in-in-memory-database/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA – High Availability and Disaster Recovery</title>
+		<link>https://bigclasses.com/blog/sap-hana-high-availability-and-disaster-recovery</link>
+		<comments>https://bigclasses.com/blog/sap-hana-high-availability-and-disaster-recovery#respond</comments>
+		<pubDate>Sat, 19 Oct 2013 10:17:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2486</guid>
+		<description><![CDATA[What is High Availability? High Availability is a set of methods, engineering practices and design ethics for Business Continuity. This is done by eliminating single points of failure and providing..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-high-availability-and-disaster-recovery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA – In-Memory Computing</title>
+		<link>https://bigclasses.com/blog/sap-hana-in-memory-computing</link>
+		<comments>https://bigclasses.com/blog/sap-hana-in-memory-computing#respond</comments>
+		<pubDate>Wed, 09 Oct 2013 12:52:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2453</guid>
+		<description><![CDATA[SAP HANA  In-memory computing is a technology that allows the processing of massive extents of data in main memory to provide immediate results from analysis and transaction. The data to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-in-memory-computing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Overview of SAP HANA &#124; Application of SAP HANA</title>
+		<link>https://bigclasses.com/blog/overview-of-sap-hana-application-of-sap-hana</link>
+		<comments>https://bigclasses.com/blog/overview-of-sap-hana-application-of-sap-hana#respond</comments>
+		<pubDate>Fri, 04 Oct 2013 14:28:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2387</guid>
+		<description><![CDATA[Taking a decision in a business is a very crucial part of the management. Before taking any decision it is very important to collect data from the correct source and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/overview-of-sap-hana-application-of-sap-hana/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scope of SAP Hana Training</title>
+		<link>https://bigclasses.com/blog/scope-of-sap-hana-training</link>
+		<comments>https://bigclasses.com/blog/scope-of-sap-hana-training#respond</comments>
+		<pubDate>Wed, 10 Apr 2013 14:19:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1550</guid>
+		<description><![CDATA[The scope of HANA Training: If you wish to confirm your future career then your best bet is HANA. SAP has positioned HANA because the database for which all applications..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/scope-of-sap-hana-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA Online Training Overview</title>
+		<link>https://bigclasses.com/blog/sap-hana-online-training-overview</link>
+		<comments>https://bigclasses.com/blog/sap-hana-online-training-overview#respond</comments>
+		<pubDate>Tue, 09 Apr 2013 14:39:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1537</guid>
+		<description><![CDATA[SAP High-performance Analytic Appliance is an In-Memory Database from SAP to store data and analyze large volumes of non-aggregated transactional data in real time. Basically, SAP HANA is a database...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-online-training-overview/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA Corporate Training Benefits</title>
+		<link>https://bigclasses.com/blog/sap-hana-corporate-training-benefits</link>
+		<comments>https://bigclasses.com/blog/sap-hana-corporate-training-benefits#respond</comments>
+		<pubDate>Mon, 25 Mar 2013 15:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1304</guid>
+		<description><![CDATA[SAP HANA Corporate Training: Training Benefits: All the training sessions are going to be conducted in an exceedingly step by step methodology ranging from the fundamentals and ending at advanced..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-corporate-training-benefits/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA online training at Bigclasses</title>
+		<link>https://bigclasses.com/blog/sap-hana-online-training-at-bigclasses</link>
+		<comments>https://bigclasses.com/blog/sap-hana-online-training-at-bigclasses#respond</comments>
+		<pubDate>Thu, 21 Mar 2013 09:43:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1271</guid>
+		<description><![CDATA[HANA Overview: Then you can rely on SAP HANA and track developments and events in real time. With the combination of high-performance in-memory software and advanced hardware from SAP partners, you..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-online-training-at-bigclasses/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA Software Components</title>
+		<link>https://bigclasses.com/blog/sap-hana-hana-software-components</link>
+		<comments>https://bigclasses.com/blog/sap-hana-hana-software-components#respond</comments>
+		<pubDate>Wed, 06 Mar 2013 10:42:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[SAP Hana online Training]]></category>
+		<category><![CDATA[sap hana training]]></category>
+		<category><![CDATA[SAP HANA tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1160</guid>
+		<description><![CDATA[SAP HANA contains the following components and administration tools: SAP In-Memory Computing Engine (IMCE) Server 1.0. SAP IMCE Clients 1.0 – The IMCE clients are the interfaces by which the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-hana-software-components/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

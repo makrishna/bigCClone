@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microstrategy &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/microstrategy-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Microstrategy &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microstrategy online education</title>
+		<link>https://bigclasses.com/blog/microstrategy-online-education</link>
+		<comments>https://bigclasses.com/blog/microstrategy-online-education#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 11:21:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Microstrategy]]></category>
+		<category><![CDATA[Microstrategy course]]></category>
+		<category><![CDATA[MicroStrategy Online Training]]></category>
+		<category><![CDATA[MicroStrategy Training]]></category>
+		<category><![CDATA[Microstrategy tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2517</guid>
+		<description><![CDATA[Microstrategy develops software which helps organization to analyze external and internal data to make a business decision and to develop mobile applications. Microstrategy develops and sells mobile softwares, business intelligence,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microstrategy-online-education/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MicroStrategy Desktop Analytics</title>
+		<link>https://bigclasses.com/blog/microstrategy-desktop-analytics</link>
+		<comments>https://bigclasses.com/blog/microstrategy-desktop-analytics#respond</comments>
+		<pubDate>Sat, 13 Apr 2013 15:03:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Microstrategy]]></category>
+		<category><![CDATA[Microstrategy course]]></category>
+		<category><![CDATA[MicroStrategy Online Training]]></category>
+		<category><![CDATA[MicroStrategy Training]]></category>
+		<category><![CDATA[Microstrategy tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1557</guid>
+		<description><![CDATA[Microstrategy online training at bigclasses teaches you how to log in and get started using MicroStrategy Desktop and MicroStrategy Web. It gives you an opportunity to familiarize yourself with the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microstrategy-desktop-analytics/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microstrategy Business Intelligence Technology</title>
+		<link>https://bigclasses.com/blog/microstrategy-business-intelligence-technology</link>
+		<comments>https://bigclasses.com/blog/microstrategy-business-intelligence-technology#respond</comments>
+		<pubDate>Thu, 28 Mar 2013 09:46:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Microstrategy]]></category>
+		<category><![CDATA[Microstrategy course]]></category>
+		<category><![CDATA[MicroStrategy Online Training]]></category>
+		<category><![CDATA[MicroStrategy Training]]></category>
+		<category><![CDATA[Microstrategy tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1322</guid>
+		<description><![CDATA[MicroStrategy is a global leader in business intelligence technology. MicroStrategy provides integrated reporting, analysis, and monitoring software that enables companies to analyze the data stored across their enterprise to make..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microstrategy-business-intelligence-technology/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microstrategy Online Training</title>
+		<link>https://bigclasses.com/blog/microstrategy-online-training-trainer</link>
+		<comments>https://bigclasses.com/blog/microstrategy-online-training-trainer#respond</comments>
+		<pubDate>Tue, 22 Jan 2013 16:04:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Microstrategy]]></category>
+		<category><![CDATA[Microstrategy course]]></category>
+		<category><![CDATA[MicroStrategy Online Training]]></category>
+		<category><![CDATA[MicroStrategy Training]]></category>
+		<category><![CDATA[Microstrategy tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=705</guid>
+		<description><![CDATA[MicroStrategy is a global leader in business intelligence technology. MicroStrategy provides integrated reporting, analysis, and monitoring software that enables companies to analyze the data stored across their enterprise to make..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microstrategy-online-training-trainer/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microstrategy Online Training</title>
+		<link>https://bigclasses.com/blog/microstrategy-online-training</link>
+		<comments>https://bigclasses.com/blog/microstrategy-online-training#respond</comments>
+		<pubDate>Thu, 06 Dec 2012 09:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Microstrategy]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=195</guid>
+		<description><![CDATA[Overview: MicroStrategy is a global leader in business intelligence technology. MicroStrategy provides integrated reporting, analysis, and monitoring software that enables companies to analyze the data stored across their enterprise to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microstrategy-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

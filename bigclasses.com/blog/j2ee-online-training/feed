@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>J2EE &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/j2ee-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>J2EE &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why J2EE Online Training</title>
+		<link>https://bigclasses.com/blog/why-j2ee-online-training</link>
+		<comments>https://bigclasses.com/blog/why-j2ee-online-training#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 10:06:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[J2EE]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[J2EE COURSE]]></category>
+		<category><![CDATA[J2EE DEMO]]></category>
+		<category><![CDATA[J2EE ONLINE TRAINING]]></category>
+		<category><![CDATA[J2EE TRAINING]]></category>
+		<category><![CDATA[J2EE TUTORIAL]]></category>
+		<category><![CDATA[Java J2EE Online Training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2561</guid>
+		<description><![CDATA[What is J2EE? Java 2 Enterprise Edition (J2EE) is a platform-independent, Java-based environment. It is developed by Sun Microsystem. It is mainly used for developing and deploying web-based applications. J2EE..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/why-j2ee-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>J2EE online training</title>
+		<link>https://bigclasses.com/blog/j2ee-online-training</link>
+		<comments>https://bigclasses.com/blog/j2ee-online-training#respond</comments>
+		<pubDate>Tue, 16 Apr 2013 13:16:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[J2EE]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1595</guid>
+		<description><![CDATA[The Java Platform, Enterprise Edition or Java EE (formerly known as Java 2 Platform, Enterprise Edition or J2EE) has undergone several changes since Java J2EE-1.0 as well as numerous additions..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/j2ee-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Java Online Training and get a free demo</title>
+		<link>https://bigclasses.com/blog/java-online-training-and-get-a-free-demo</link>
+		<comments>https://bigclasses.com/blog/java-online-training-and-get-a-free-demo#respond</comments>
+		<pubDate>Mon, 08 Apr 2013 14:47:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[J2EE]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[CORE JAVA]]></category>
+		<category><![CDATA[core java course]]></category>
+		<category><![CDATA[CORE JAVA DEMO]]></category>
+		<category><![CDATA[core java online training]]></category>
+		<category><![CDATA[core java training]]></category>
+		<category><![CDATA[CORE JAVA TUTORIAL]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1525</guid>
+		<description><![CDATA[The Java Platform, Enterprise Edition or Java EE (formerly known as Java 2 Platform, Enterprise Edition or J2EE) has undergone several changes since Java J2EE-1.0 as well as numerous additions of..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/java-online-training-and-get-a-free-demo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Java online training &#8211; Java J2EE</title>
+		<link>https://bigclasses.com/blog/java-online-training</link>
+		<comments>https://bigclasses.com/blog/java-online-training#respond</comments>
+		<pubDate>Tue, 29 Jan 2013 10:58:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[J2EE]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[advanced java online training]]></category>
+		<category><![CDATA[advanJava tutorial]]></category>
+		<category><![CDATA[Java course]]></category>
+		<category><![CDATA[Java demo]]></category>
+		<category><![CDATA[Java online training]]></category>
+		<category><![CDATA[Java training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=733</guid>
+		<description><![CDATA[The Java Platform, Enterprise Edition or Java EE (formerly known as Java 2 Platform, Enterprise Edition or J2EE) has undergone several changes since Java J2EE-1.0 as well as numerous additions..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/java-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

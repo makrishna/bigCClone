@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cognos &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/cognos-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Cognos &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cognos Dashboard</title>
+		<link>https://bigclasses.com/blog/cognos-dashboard</link>
+		<comments>https://bigclasses.com/blog/cognos-dashboard#respond</comments>
+		<pubDate>Thu, 08 Oct 2015 07:39:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Cognos Dashboard]]></category>
+		<category><![CDATA[Concepts]]></category>
+		<category><![CDATA[IBM Cognos is useful for]]></category>
+		<category><![CDATA[Procedure for creating Dashboards in Cognos]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4264</guid>
+		<description><![CDATA[Introduction to Cognos Dashboard A dashboard is a data visualization tool which displays the present status of metrics and the key performance indicators (KPIs). Dashboards combine and organize numbers, metrics..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-dashboard/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Architecture</title>
+		<link>https://bigclasses.com/blog/cognos-architecture</link>
+		<comments>https://bigclasses.com/blog/cognos-architecture#respond</comments>
+		<pubDate>Tue, 22 Sep 2015 08:28:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos architecture]]></category>
+		<category><![CDATA[cognos BI online training]]></category>
+		<category><![CDATA[COGNOS BI-TOOL]]></category>
+		<category><![CDATA[IBM Cognos Content Manager]]></category>
+		<category><![CDATA[IBM Cognos Dispatcher]]></category>
+		<category><![CDATA[IBM Cognos reporting Server]]></category>
+		<category><![CDATA[Tier I-Web Tier Cognos BI Gateway]]></category>
+		<category><![CDATA[Tier-II-Application Tier]]></category>
+		<category><![CDATA[Tier-III Data Tier Content Providers]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3939</guid>
+		<description><![CDATA[COGNOS BI TOOL : Cognos is a Business Intelligence (BI) solution created to encounter the challenges of enterprise-scale reporting, analyzing, scorecarding, and event notifying. Generally data is extracted from various sources..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Transformer for Online Analytical Processing</title>
+		<link>https://bigclasses.com/blog/cognos-transformer-for-online-analytical-processing</link>
+		<comments>https://bigclasses.com/blog/cognos-transformer-for-online-analytical-processing#respond</comments>
+		<pubDate>Sat, 15 Feb 2014 09:29:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2815</guid>
+		<description><![CDATA[OLAP is a loom to promptly retort the multi-dimensional analytical queries. I urge you to see this cognos video tutorial that explains what is cognos and all that we have discussed in..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-transformer-for-online-analytical-processing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM Cognos Online Training</title>
+		<link>https://bigclasses.com/blog/ibm-cognos-online-training</link>
+		<comments>https://bigclasses.com/blog/ibm-cognos-online-training#respond</comments>
+		<pubDate>Wed, 11 Dec 2013 13:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DataStage]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2771</guid>
+		<description><![CDATA[Cognos is considered as an expert software suit of IBM&#8217;s BI. It is mainly designed for the overall performance management of an enterprise. It allows the business owner to access..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-cognos-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Report Studio &#124; Cognos Training</title>
+		<link>https://bigclasses.com/blog/cognos-report-studio-cognos-training</link>
+		<comments>https://bigclasses.com/blog/cognos-report-studio-cognos-training#respond</comments>
+		<pubDate>Thu, 07 Nov 2013 09:38:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2571</guid>
+		<description><![CDATA[What is Cognos? The word ‘Cognos’ originated from the Latin word &#8220;cognosco&#8221;. It is introduced by IBM. Cognos helps any company in their Business Intelligence (BI). What is Cognos Report..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-report-studio-cognos-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Features and impotance of cognos</title>
+		<link>https://bigclasses.com/blog/cognos-features-and-impotance-of-cognos</link>
+		<comments>https://bigclasses.com/blog/cognos-features-and-impotance-of-cognos#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 11:27:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Congos Course]]></category>
+		<category><![CDATA[Congos Online Training]]></category>
+		<category><![CDATA[Congos Training]]></category>
+		<category><![CDATA[Congos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2519</guid>
+		<description><![CDATA[Cognos software helps any company to become to performing company in terms of analytics. It helps in business intelligence. Now we are going to discuss about new features of Cognos...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-features-and-impotance-of-cognos/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Online Training &#124; Cognos Online Training in Hyderabad</title>
+		<link>https://bigclasses.com/blog/cognos-online-training-cognos-online-training-in-hyderabad</link>
+		<comments>https://bigclasses.com/blog/cognos-online-training-cognos-online-training-in-hyderabad#respond</comments>
+		<pubDate>Mon, 07 Oct 2013 10:08:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2420</guid>
+		<description><![CDATA[Cognos Online Training &#124; Cognos Report Studio Tutorial for Beginners ‘Cognos’ came  from the Latin word &#8220;cognosco&#8221;. Meaning of &#8220;cognosco&#8221; is ‘knowledge gained from your personal experience’. Cognos software helps..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-online-training-cognos-online-training-in-hyderabad/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos 10.2 Online Training from leading Training Institute</title>
+		<link>https://bigclasses.com/blog/cognos-10-2-online-training-from-leading-training-institute</link>
+		<comments>https://bigclasses.com/blog/cognos-10-2-online-training-from-leading-training-institute#respond</comments>
+		<pubDate>Tue, 01 Oct 2013 13:43:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Cognos 10.2 online training]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2358</guid>
+		<description><![CDATA[What to learn Cognos 10.2 Online? Answer : But not finding time to do the training? Do not spend much time thinking on it. BigClasses has a solution for your problem.We..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-10-2-online-training-from-leading-training-institute/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos  BI Online Training</title>
+		<link>https://bigclasses.com/blog/cognos-bi-online-training</link>
+		<comments>https://bigclasses.com/blog/cognos-bi-online-training#respond</comments>
+		<pubDate>Thu, 26 Sep 2013 13:33:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2349</guid>
+		<description><![CDATA[Our main objective is to provide IT training to fresh learners and professionals spread over a wide geographical area with the association of efficient faculties staying anywhere in the world..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-bi-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Online Training</title>
+		<link>https://bigclasses.com/blog/cognos-online-training</link>
+		<comments>https://bigclasses.com/blog/cognos-online-training#respond</comments>
+		<pubDate>Thu, 28 Mar 2013 09:01:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1319</guid>
+		<description><![CDATA[BigClasses Trainer-lead Cognos Online Training is live, real-time and interactive. It is not self paced or pre-recorded, and provides many of the same benefits of in-person classroom training, with live..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

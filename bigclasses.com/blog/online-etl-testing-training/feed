@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ETL Testing &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/online-etl-testing-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>ETL Testing &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Database Testing and Data Warehouse Testing through ETL testing training</title>
+		<link>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training</link>
+		<comments>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training#respond</comments>
+		<pubDate>Thu, 13 Feb 2014 14:45:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[crud values]]></category>
+		<category><![CDATA[data destination]]></category>
+		<category><![CDATA[data transformation]]></category>
+		<category><![CDATA[database fields]]></category>
+		<category><![CDATA[database testing]]></category>
+		<category><![CDATA[datawarehousing testing]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[etl tool]]></category>
+		<category><![CDATA[extration of etl tool]]></category>
+		<category><![CDATA[object fields of etl]]></category>
+		<category><![CDATA[olap database]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2790</guid>
+		<description><![CDATA[There is an accepted misunderstanding that database and data warehouse testing is similar while the verity is that both hold different direction in testing. Database testing is done using a..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Types of ETL Testing</title>
+		<link>https://bigclasses.com/blog/types-of-etl-testing</link>
+		<comments>https://bigclasses.com/blog/types-of-etl-testing#respond</comments>
+		<pubDate>Thu, 19 Dec 2013 14:28:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2782</guid>
+		<description><![CDATA[ETL testing is classified into four different sections irrespective of technology or the ETL tools used: 1.New Data Warehouse Testing It is built and verified from the scratch. In this..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/types-of-etl-testing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Overview and Role of ETL Testing</title>
+		<link>https://bigclasses.com/blog/overview-and-role-of-etl-testing</link>
+		<comments>https://bigclasses.com/blog/overview-and-role-of-etl-testing#respond</comments>
+		<pubDate>Tue, 03 Dec 2013 12:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[Etl testing]]></category>
+		<category><![CDATA[ETL Testing courses]]></category>
+		<category><![CDATA[etl testing demo]]></category>
+		<category><![CDATA[etl testing online training]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[etl testing tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2720</guid>
+		<description><![CDATA[If you are considering yourself as a part of IT industry, you should have heard the term data warehouses and about the analyses tools. Every day various businesses are starting..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/overview-and-role-of-etl-testing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Successful Career Starts Now with ETL Testing Online Training</title>
+		<link>https://bigclasses.com/blog/successful-career-starts-now-with-etl-testing-online-training</link>
+		<comments>https://bigclasses.com/blog/successful-career-starts-now-with-etl-testing-online-training#respond</comments>
+		<pubDate>Sat, 16 Nov 2013 13:02:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Etl testing]]></category>
+		<category><![CDATA[ETL testing course]]></category>
+		<category><![CDATA[ETL testing free demo]]></category>
+		<category><![CDATA[etl testing online training]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[etl testing tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2616</guid>
+		<description><![CDATA[BigClasses provides ETL testing online training which is very important for project life cycle. We provide a well-defined and structured testing methodology which offers comprehensive system testing and unit testing...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/successful-career-starts-now-with-etl-testing-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ETL Testing Process Validation and Estimation</title>
+		<link>https://bigclasses.com/blog/etl-testing-process</link>
+		<comments>https://bigclasses.com/blog/etl-testing-process#respond</comments>
+		<pubDate>Tue, 12 Mar 2013 09:20:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Checkpoints]]></category>
+		<category><![CDATA[Components of Quality Center]]></category>
+		<category><![CDATA[Creating parameters]]></category>
+		<category><![CDATA[Data table Import Export Methods]]></category>
+		<category><![CDATA[How does Load Runner works]]></category>
+		<category><![CDATA[Introduction to QTP]]></category>
+		<category><![CDATA[Load Testing Terminology]]></category>
+		<category><![CDATA[Manual Scenario]]></category>
+		<category><![CDATA[Object spy]]></category>
+		<category><![CDATA[Quality Center and QTP integration]]></category>
+		<category><![CDATA[Software testing tools]]></category>
+		<category><![CDATA[Testing Vs SDLC]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1182</guid>
+		<description><![CDATA[Similar to the other testing that lies below freelance Verification and Validation, ETL additionally bear a similar section. Business and demand understanding Validating, Test Estimation: Test coming up with supported the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/etl-testing-process/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

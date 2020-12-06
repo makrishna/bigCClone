@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TeraData &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/teradata-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>TeraData &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Teradata –How to secure sensitive information</title>
+		<link>https://bigclasses.com/blog/teradata-how-to-secure-sensitive-information</link>
+		<comments>https://bigclasses.com/blog/teradata-how-to-secure-sensitive-information#respond</comments>
+		<pubDate>Sat, 30 Nov 2013 13:19:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+		<category><![CDATA[teradata]]></category>
+		<category><![CDATA[Teradata course]]></category>
+		<category><![CDATA[teradata online training]]></category>
+		<category><![CDATA[teradata training]]></category>
+		<category><![CDATA[teradata tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2709</guid>
+		<description><![CDATA[One thing makes guarding sensitive data which is more difficult and more expensive also. It is a real fact that many companies have this kind of information spread throughout their..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/teradata-how-to-secure-sensitive-information/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meet Your Analytical Needs by Using Teradata Concepts</title>
+		<link>https://bigclasses.com/blog/meet-your-analytical-needs-by-using-teradata-concepts</link>
+		<comments>https://bigclasses.com/blog/meet-your-analytical-needs-by-using-teradata-concepts#respond</comments>
+		<pubDate>Fri, 15 Nov 2013 13:33:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+		<category><![CDATA[teradata]]></category>
+		<category><![CDATA[Teradata course]]></category>
+		<category><![CDATA[teradata online training]]></category>
+		<category><![CDATA[teradata training]]></category>
+		<category><![CDATA[teradata tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2596</guid>
+		<description><![CDATA[BigClasses is offering Teradata online training for working professionals and fresher. Teradata is an ETL tool constructed to deliver diverse queries, high performance, and sophisticated workload management. Our Teradata training..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/meet-your-analytical-needs-by-using-teradata-concepts/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TERADATA Basics and learn online teradata</title>
+		<link>https://bigclasses.com/blog/teradata-basics-and-learn-online-teradata</link>
+		<comments>https://bigclasses.com/blog/teradata-basics-and-learn-online-teradata#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 11:15:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+		<category><![CDATA[teradata]]></category>
+		<category><![CDATA[Teradata course]]></category>
+		<category><![CDATA[teradata online training]]></category>
+		<category><![CDATA[teradata training]]></category>
+		<category><![CDATA[teradata tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2513</guid>
+		<description><![CDATA[Teradata is enterprise software introduced by Teradata Corporation, America. Basically, it sells relational database management system (RDBMS) for data warehouse and analytic applications. It stores data and manages data. What..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/teradata-basics-and-learn-online-teradata/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TERADATA TRAINING</title>
+		<link>https://bigclasses.com/blog/teradata-training</link>
+		<comments>https://bigclasses.com/blog/teradata-training#respond</comments>
+		<pubDate>Tue, 07 May 2013 12:27:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1858</guid>
+		<description><![CDATA[About Teradata Online Training @ BigClasses BigClasses is one of the best online training organizations offer Teradata training. We have qualified and experienced faculties who are responsible for taking the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/teradata-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Teradata online training Advanced</title>
+		<link>https://bigclasses.com/blog/teradata-online-training-advanced</link>
+		<comments>https://bigclasses.com/blog/teradata-online-training-advanced#respond</comments>
+		<pubDate>Fri, 26 Apr 2013 06:04:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+		<category><![CDATA[Teradata course]]></category>
+		<category><![CDATA[teradata data ware housing]]></category>
+		<category><![CDATA[teradata free demo]]></category>
+		<category><![CDATA[teradata online training]]></category>
+		<category><![CDATA[teradata training]]></category>
+		<category><![CDATA[teradata tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1782</guid>
+		<description><![CDATA[Teradata is an enterprise software company that develops and sells a relational database management system (RDBMS). Teradata is considered as a “Data warehouse system”, which can manage data, store data..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/teradata-online-training-advanced/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction to Teradata</title>
+		<link>https://bigclasses.com/blog/introduction-to-teradata</link>
+		<comments>https://bigclasses.com/blog/introduction-to-teradata#respond</comments>
+		<pubDate>Mon, 15 Apr 2013 10:27:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+		<category><![CDATA[teradata]]></category>
+		<category><![CDATA[Teradata course]]></category>
+		<category><![CDATA[teradata online training]]></category>
+		<category><![CDATA[teradata training]]></category>
+		<category><![CDATA[teradata tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1568</guid>
+		<description><![CDATA[Teradata online training Teradata is an enterprise software company that develops and sells a relational database management system (RDBMS) with the same name. In February 2011, Gartner ranked Teradata as..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/introduction-to-teradata/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Teradata Online Training</title>
+		<link>https://bigclasses.com/blog/teradata-online-training</link>
+		<comments>https://bigclasses.com/blog/teradata-online-training#respond</comments>
+		<pubDate>Mon, 18 Mar 2013 12:58:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+		<category><![CDATA[Call level interface(CLI)]]></category>
+		<category><![CDATA[Hash algorithm]]></category>
+		<category><![CDATA[mq architecture]]></category>
+		<category><![CDATA[RAID 1 &RAID 5]]></category>
+		<category><![CDATA[smp architecture]]></category>
+		<category><![CDATA[teradata]]></category>
+		<category><![CDATA[teradata history]]></category>
+		<category><![CDATA[teradta ware house]]></category>
+		<category><![CDATA[Types of indexes in Teradata]]></category>
+		<category><![CDATA[Virtual processors]]></category>
+		<category><![CDATA[What is fall back &where it used]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1257</guid>
+		<description><![CDATA[The Teradata product or service is known as a &#8220;data warehouse solution&#8221; and retail establishments and manages data. The comprehensive data shops make use of”mutual nothing architecture,&#8221; meaning that each..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/teradata-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Teradata ?</title>
+		<link>https://bigclasses.com/blog/why-teradata</link>
+		<comments>https://bigclasses.com/blog/why-teradata#respond</comments>
+		<pubDate>Fri, 08 Feb 2013 13:10:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[TeraData]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=895</guid>
+		<description><![CDATA[About Teradata Online Training @ BigClasses BigClasses is one of the best online training organizations offer Teradata training. We have qualified and experienced faculties who are responsible for taking the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/why-teradata/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

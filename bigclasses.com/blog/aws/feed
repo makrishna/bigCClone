@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AWS &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/aws/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>AWS &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reasons Why AWS is the Boss of Cloud Computing</title>
+		<link>https://bigclasses.com/blog/reasons-why-aws-is-the-boss-of-cloud-computing</link>
+		<comments>https://bigclasses.com/blog/reasons-why-aws-is-the-boss-of-cloud-computing#respond</comments>
+		<pubDate>Tue, 26 Dec 2017 10:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AWS]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5304</guid>
+		<description><![CDATA[Amazon Web Services (AWS) is one the prominent and powerful technology for cloud computing. Companies worldwide have greatly benefited from AWS in terms of unending and ever-increasing data, enormous and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/reasons-why-aws-is-the-boss-of-cloud-computing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How the IT Companies Maintain Their Data Base ?</title>
+		<link>https://bigclasses.com/blog/companies-maintain-data-base</link>
+		<comments>https://bigclasses.com/blog/companies-maintain-data-base#respond</comments>
+		<pubDate>Tue, 26 Dec 2017 09:43:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AWS]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5272</guid>
+		<description><![CDATA[We are living in an era where there are millions of companies worldwide. We have different industry sectors, and each one of them has an important asset, “The Data”. The..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/companies-maintain-data-base/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

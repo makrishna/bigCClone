@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MicroSoft &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/microsoft/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>MicroSoft &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SSAS Introduction</title>
+		<link>https://bigclasses.com/blog/ssas-introduction</link>
+		<comments>https://bigclasses.com/blog/ssas-introduction#respond</comments>
+		<pubDate>Wed, 30 Sep 2015 10:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[An overview of internal structure of SSAS]]></category>
+		<category><![CDATA[Client Architecture]]></category>
+		<category><![CDATA[Server Architecture]]></category>
+		<category><![CDATA[SQL Server DBA course]]></category>
+		<category><![CDATA[SQL Server DBA online training]]></category>
+		<category><![CDATA[SQL Server DBA Training]]></category>
+		<category><![CDATA[SQL Server DBA Tutorial]]></category>
+		<category><![CDATA[SSAS Introduction]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3986</guid>
+		<description><![CDATA[SSAS Introduction SSAS stands for an SQL Server 2008R2 Analysis Services. The Microsoft Business Intelligence (BI) suite provides quiet a powerful technology-“SQL Server Analysis Services (SSAS) to offer online Analytical..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssas-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSRS Architecture</title>
+		<link>https://bigclasses.com/blog/ssrs-architecture</link>
+		<comments>https://bigclasses.com/blog/ssrs-architecture#respond</comments>
+		<pubDate>Wed, 30 Sep 2015 09:33:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[MSBI SSRS Online Training]]></category>
+		<category><![CDATA[MSBI SSRS Training]]></category>
+		<category><![CDATA[MSBI SSRS tutorial]]></category>
+		<category><![CDATA[SSRS Architecture]]></category>
+		<category><![CDATA[The Reporting Services Architecture]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3980</guid>
+		<description><![CDATA[SSRS Architecture SQL server reporting service is a complete and extensible reporting platform that contains an integrated set of programmatic interfaces, processing components and tools. The basis of the multilayered..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssrs-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSIS Architecture</title>
+		<link>https://bigclasses.com/blog/ssis-architecture</link>
+		<comments>https://bigclasses.com/blog/ssis-architecture#respond</comments>
+		<pubDate>Mon, 28 Sep 2015 07:50:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[MSBI SSIS Online Training]]></category>
+		<category><![CDATA[SQL Server Intergration Service]]></category>
+		<category><![CDATA[SSIS Architecture]]></category>
+		<category><![CDATA[SSIS Data Flow Engine/Pipeline]]></category>
+		<category><![CDATA[SSIS Runtime Engine]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3974</guid>
+		<description><![CDATA[SQL Server Intergration Service (SSIS) Architecture Introduction This is an ETL tool a product of  Microsoft. Integration services is a platform used in building high-performance data integration and workflow solutions,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssis-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SharePoint development is akin to ASP.NET development</title>
+		<link>https://bigclasses.com/blog/sharepoint-development-is-akin-to-asp-net-development</link>
+		<comments>https://bigclasses.com/blog/sharepoint-development-is-akin-to-asp-net-development#respond</comments>
+		<pubDate>Sat, 15 Feb 2014 09:07:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MicroSoft SharePoint]]></category>
+		<category><![CDATA[Microsoft Office SharePoint Server]]></category>
+		<category><![CDATA[Microsoft SharePoint]]></category>
+		<category><![CDATA[miscrosoft sharepoint free demo]]></category>
+		<category><![CDATA[ms sharepoint training]]></category>
+		<category><![CDATA[Sharepoint online training]]></category>
+		<category><![CDATA[Sharepoint training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2811</guid>
+		<description><![CDATA[Development in SharePoint is an attractive fusion of several Microsoft technologies and styles of development. For example, when you make a custom web part or custom application page in SharePoint,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sharepoint-development-is-akin-to-asp-net-development/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Soar High in  Your Career Opportunities by SharePoint Training</title>
+		<link>https://bigclasses.com/blog/soar-high-in-your-career-opportunities-by-sharepoint-training</link>
+		<comments>https://bigclasses.com/blog/soar-high-in-your-career-opportunities-by-sharepoint-training#respond</comments>
+		<pubDate>Wed, 04 Dec 2013 13:50:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MicroSoft SharePoint]]></category>
+		<category><![CDATA[microsoft sharepoint online training]]></category>
+		<category><![CDATA[miscrosoft sharepoint free demo]]></category>
+		<category><![CDATA[ms sharepoint tutorials]]></category>
+		<category><![CDATA[Sharepoint training]]></category>
+		<category><![CDATA[sharepoint videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2738</guid>
+		<description><![CDATA[Microsoft SharePoint is one of the most fruitful content management systems. Learning Microsoft SharePoint provides the practitioner the divergent advantage of known how data, files and texts are shared across..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/soar-high-in-your-career-opportunities-by-sharepoint-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Java vs.Dot Net Online Training</title>
+		<link>https://bigclasses.com/blog/java-vs-dot-net-online-training</link>
+		<comments>https://bigclasses.com/blog/java-vs-dot-net-online-training#respond</comments>
+		<pubDate>Mon, 02 Dec 2013 13:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced Java]]></category>
+		<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[asp.net ajax]]></category>
+		<category><![CDATA[asp.net javascript]]></category>
+		<category><![CDATA[asp.net list box]]></category>
+		<category><![CDATA[asp.net mvc]]></category>
+		<category><![CDATA[asp.net namespace]]></category>
+		<category><![CDATA[asp.net online training]]></category>
+		<category><![CDATA[java applications]]></category>
+		<category><![CDATA[java basics]]></category>
+		<category><![CDATA[java collections]]></category>
+		<category><![CDATA[java features]]></category>
+		<category><![CDATA[java free demo]]></category>
+		<category><![CDATA[java install]]></category>
+		<category><![CDATA[java jdk]]></category>
+		<category><![CDATA[java training videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2718</guid>
+		<description><![CDATA[Software market has grown rapidly and millions of individuals are involved in this which includes professionals, s/w learners, and students. These all are major contributors in the IT industry.The young..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/java-vs-dot-net-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ASP Dot Net Training – Make Your Own Web Application Using Revolutionary Technologies</title>
+		<link>https://bigclasses.com/blog/asp-dot-net-training-make-your-own-web-application-using-revolutionary-technologies</link>
+		<comments>https://bigclasses.com/blog/asp-dot-net-training-make-your-own-web-application-using-revolutionary-technologies#respond</comments>
+		<pubDate>Tue, 26 Nov 2013 13:08:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ASP .Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2677</guid>
+		<description><![CDATA[BigClasses is the one of the best global IT training organization which provides absolute quality of ASP.NET online training. We provide ASP.NET training to our learners anywhere and anytime. ASP.NET is..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/asp-dot-net-training-make-your-own-web-application-using-revolutionary-technologies/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SharePoint &#8211; Experience the New Web Application Platform</title>
+		<link>https://bigclasses.com/blog/sharepoint-experience-the-new-web-application-platform</link>
+		<comments>https://bigclasses.com/blog/sharepoint-experience-the-new-web-application-platform#respond</comments>
+		<pubDate>Mon, 25 Nov 2013 15:19:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MicroSoft SharePoint]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2666</guid>
+		<description><![CDATA[MS SharePoint is basically an application or a program.You can consider SharePoint as a platform and we can use it to do the thing it does best which is to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sharepoint-experience-the-new-web-application-platform/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learn Dot NET Online and Create Improved Web Application</title>
+		<link>https://bigclasses.com/blog/learn-dot-net-online-and-create-improved-web-application</link>
+		<comments>https://bigclasses.com/blog/learn-dot-net-online-and-create-improved-web-application#respond</comments>
+		<pubDate>Mon, 25 Nov 2013 15:13:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2665</guid>
+		<description><![CDATA[Dot NET Framework is a software framework that runs mainly on Microsoft Windows and it is introduced by Microsoft.Dot NET comprises of a large library and it also offers language..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/learn-dot-net-online-and-create-improved-web-application/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basics of MS SQL Server Training</title>
+		<link>https://bigclasses.com/blog/basics-of-ms-sql-server-training</link>
+		<comments>https://bigclasses.com/blog/basics-of-ms-sql-server-training#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 10:35:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[SQLServer DBA]]></category>
+		<category><![CDATA[ms sql server]]></category>
+		<category><![CDATA[ms sql server course]]></category>
+		<category><![CDATA[ms sql server demo]]></category>
+		<category><![CDATA[ms sql server online training]]></category>
+		<category><![CDATA[ms sql server training]]></category>
+		<category><![CDATA[ms sql server tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2566</guid>
+		<description><![CDATA[MS SQL Server is a relational database management system, which is developed by Microsoft. The primary function of SQL Server is to store and retrieve data as requested. There are..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/basics-of-ms-sql-server-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

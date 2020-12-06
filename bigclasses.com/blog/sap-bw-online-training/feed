@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP BW &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-bw-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP BW &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SAP NetWeaver BW 7.3 Online training</title>
+		<link>https://bigclasses.com/blog/major-benefits-of-sap-netweaver-bw-7-3-are</link>
+		<comments>https://bigclasses.com/blog/major-benefits-of-sap-netweaver-bw-7-3-are#respond</comments>
+		<pubDate>Mon, 18 Feb 2013 15:19:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BW]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=944</guid>
+		<description><![CDATA[Major benefits of SAP NetWeaver BW 7.3 are: Enhanced Scalability &#38; Performance for faster decision making • Remarkably accelerated data loads • Next level of performance for BW Accelerator Increased..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/major-benefits-of-sap-netweaver-bw-7-3-are/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BW 7.3 &#038; Hana Online Training</title>
+		<link>https://bigclasses.com/blog/sap-bw-7-3-hana-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-bw-7-3-hana-online-training#respond</comments>
+		<pubDate>Thu, 07 Feb 2013 11:48:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BW]]></category>
+		<category><![CDATA[BW Architecture]]></category>
+		<category><![CDATA[CO-PA]]></category>
+		<category><![CDATA[Data targets]]></category>
+		<category><![CDATA[Direct DTP]]></category>
+		<category><![CDATA[Direct update]]></category>
+		<category><![CDATA[DTP – Data Transfer Process]]></category>
+		<category><![CDATA[Free characteristics]]></category>
+		<category><![CDATA[Landscape of SAP]]></category>
+		<category><![CDATA[ODS]]></category>
+		<category><![CDATA[ODS SETTING]]></category>
+		<category><![CDATA[OLAP]]></category>
+		<category><![CDATA[OLTP]]></category>
+		<category><![CDATA[Over View Concepts of BW]]></category>
+		<category><![CDATA[Query properties]]></category>
+		<category><![CDATA[Request no]]></category>
+		<category><![CDATA[Scheduline data]]></category>
+		<category><![CDATA[Standard PSA]]></category>
+		<category><![CDATA[Text data]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=873</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-bw-7-3-hana-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BW BI online training</title>
+		<link>https://bigclasses.com/blog/sap-bw-bi-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-bw-bi-online-training#respond</comments>
+		<pubDate>Tue, 08 Jan 2013 14:58:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP BW]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=551</guid>
+		<description><![CDATA[Course Brief: The Entire course training will be given on SAP BI 7.0 Version. Older Version of SAP BI 7.0 (SAP BW 3.5 version) concepts &#38; features will be discussed...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-bw-bi-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

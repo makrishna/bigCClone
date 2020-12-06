@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>QTP &amp; QC &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/qtp-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>QTP &amp; QC &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Advantages of Online QTP Training</title>
+		<link>https://bigclasses.com/blog/advantages-of-online-qtp-training</link>
+		<comments>https://bigclasses.com/blog/advantages-of-online-qtp-training#respond</comments>
+		<pubDate>Fri, 29 Nov 2013 13:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[QTP & QC]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[QTP course]]></category>
+		<category><![CDATA[QTP demo]]></category>
+		<category><![CDATA[QTP Online]]></category>
+		<category><![CDATA[qtp online training]]></category>
+		<category><![CDATA[QTP Training]]></category>
+		<category><![CDATA[QTP tutorial]]></category>
+		<category><![CDATA[QTP videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2701</guid>
+		<description><![CDATA[Software Testing is a process of performing developed software application to certify its performance as well as its quality in terms of ability, efficacy, reliability, usability, safety, accuracy and completeness...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/advantages-of-online-qtp-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quality Assurance QA Online Training</title>
+		<link>https://bigclasses.com/blog/quality-assurance-qa-online-training</link>
+		<comments>https://bigclasses.com/blog/quality-assurance-qa-online-training#respond</comments>
+		<pubDate>Wed, 13 Mar 2013 10:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[QTP & QC]]></category>
+		<category><![CDATA[Testing]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1192</guid>
+		<description><![CDATA[The Software QA  training online covers: Software QA Profession in a modern world. Introduction to Windows and WEB applications GUI Testing. ResumeBuilder project: GUI testing, writing bug reports. Bug Reporting rules in..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/quality-assurance-qa-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IBM MQ &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/ibm-mq-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>IBM MQ &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Start a New Career with Message Queuing</title>
+		<link>https://bigclasses.com/blog/start-a-new-career-with-message-queuing</link>
+		<comments>https://bigclasses.com/blog/start-a-new-career-with-message-queuing#respond</comments>
+		<pubDate>Mon, 09 Dec 2013 14:18:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[websphere MQ]]></category>
+		<category><![CDATA[WebSphere MQ course]]></category>
+		<category><![CDATA[WebSphere MQ demo]]></category>
+		<category><![CDATA[websphere mq online training]]></category>
+		<category><![CDATA[websphere mq training]]></category>
+		<category><![CDATA[websphere mq tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2760</guid>
+		<description><![CDATA[The purpose of the WebSphere MQ training is to make the professionals familiar with the working of business modules and handle this. The skills like business process modeling concepts, validation,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/start-a-new-career-with-message-queuing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WebSphere MQ – Select the Right Tool to Manage Middleware</title>
+		<link>https://bigclasses.com/blog/websphere-mq-select-the-right-tool-to-manage-middleware</link>
+		<comments>https://bigclasses.com/blog/websphere-mq-select-the-right-tool-to-manage-middleware#respond</comments>
+		<pubDate>Tue, 03 Dec 2013 13:10:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[websphere MQ]]></category>
+		<category><![CDATA[websphere mq free demo]]></category>
+		<category><![CDATA[websphere mq online training]]></category>
+		<category><![CDATA[websphere mq training]]></category>
+		<category><![CDATA[websphere mq tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2722</guid>
+		<description><![CDATA[WebSphere MQ has become the de facto standard for asynchronous application integration. As architecture has stimulated from CICS and mainframe to SOA, then WebSphere MQ has adapted. MQ is widely..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/websphere-mq-select-the-right-tool-to-manage-middleware/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WebSphere MQ – Do Your Business More Easily</title>
+		<link>https://bigclasses.com/blog/websphere-mq-do-your-business-more-easily</link>
+		<comments>https://bigclasses.com/blog/websphere-mq-do-your-business-more-easily#respond</comments>
+		<pubDate>Fri, 29 Nov 2013 08:28:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[websphere MQ]]></category>
+		<category><![CDATA[WebSphere MQ course]]></category>
+		<category><![CDATA[WebSphere MQ demo]]></category>
+		<category><![CDATA[websphere mq online training]]></category>
+		<category><![CDATA[websphere mq training]]></category>
+		<category><![CDATA[websphere mq tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2697</guid>
+		<description><![CDATA[There is a great demand of WebSphere MQ online training among today’s young crowd. MQ is mainly used in e-mail and it is related to data processing. In our WebSphere..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/websphere-mq-do-your-business-more-easily/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Boost Your Career by Learning WebSphere MQ Online</title>
+		<link>https://bigclasses.com/blog/boost-your-career-by-learning-websphere-mq-online</link>
+		<comments>https://bigclasses.com/blog/boost-your-career-by-learning-websphere-mq-online#respond</comments>
+		<pubDate>Thu, 14 Nov 2013 11:19:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[websphere MQ]]></category>
+		<category><![CDATA[websphere mq classes]]></category>
+		<category><![CDATA[WebSphere MQ demo]]></category>
+		<category><![CDATA[websphere mq online training]]></category>
+		<category><![CDATA[websphere mq training]]></category>
+		<category><![CDATA[websphere mq tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2585</guid>
+		<description><![CDATA[WebSphere MQ online training has a big demand in the current market for data processing. At BigClasses we are providing latest and structured WebSphere MQ training for our learners to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/boost-your-career-by-learning-websphere-mq-online/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brief Overview of IBM MQ &#038; IBM MQ Online Training</title>
+		<link>https://bigclasses.com/blog/brief-overview-of-ibm-mq-ibm-mq-online-training</link>
+		<comments>https://bigclasses.com/blog/brief-overview-of-ibm-mq-ibm-mq-online-training#respond</comments>
+		<pubDate>Fri, 04 Oct 2013 14:19:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[ibm mq]]></category>
+		<category><![CDATA[IBM MQ course]]></category>
+		<category><![CDATA[IBM MQ free demo]]></category>
+		<category><![CDATA[ibm mq online training]]></category>
+		<category><![CDATA[ibm mq training]]></category>
+		<category><![CDATA[IBM MQ tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2381</guid>
+		<description><![CDATA[MQ stands for Message Queuing. Previously we called it as MQSeries. Since it was developed by IBM, it is more popular by the name IBM WebSphere MQ. MQ (message queuing)..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/brief-overview-of-ibm-mq-ibm-mq-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM WEBSPHERE MQ</title>
+		<link>https://bigclasses.com/blog/ibm-websphere-mq</link>
+		<comments>https://bigclasses.com/blog/ibm-websphere-mq#respond</comments>
+		<pubDate>Thu, 23 May 2013 09:15:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ course]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ free demo]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ online training]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ training]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2215</guid>
+		<description><![CDATA[IBM WEBSPHERE MQ is used for delivering the messages. The specialty of MQ is, it can convert and transport any type of data into messages, which helps the businesses to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-websphere-mq/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM Websphere Application server</title>
+		<link>https://bigclasses.com/blog/ibm-websphere-application-server</link>
+		<comments>https://bigclasses.com/blog/ibm-websphere-application-server#respond</comments>
+		<pubDate>Wed, 24 Apr 2013 06:06:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ course]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ free demo]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ online training]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ training]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1744</guid>
+		<description><![CDATA[Websphere Application server WAS is built using open standards such as Java EE, XML, and Web Services. It is supported on the following platforms: Windows, AIX, Linux, Solaris, i/OS and z/OS...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-websphere-application-server/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM MQ Series Queue Commands</title>
+		<link>https://bigclasses.com/blog/ibm-mq-series-queue-commands</link>
+		<comments>https://bigclasses.com/blog/ibm-mq-series-queue-commands#respond</comments>
+		<pubDate>Mon, 01 Apr 2013 10:31:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[Message Descriptor]]></category>
+		<category><![CDATA[MQ Administrator Boundaries]]></category>
+		<category><![CDATA[MQ Client]]></category>
+		<category><![CDATA[MQ Explorer]]></category>
+		<category><![CDATA[MQ MIGRATION]]></category>
+		<category><![CDATA[MQ Server]]></category>
+		<category><![CDATA[MQDISC MQCMIT]]></category>
+		<category><![CDATA[MQI Channels]]></category>
+		<category><![CDATA[MQSERVER Variable]]></category>
+		<category><![CDATA[On Linux]]></category>
+		<category><![CDATA[On Windows]]></category>
+		<category><![CDATA[OS MIGRATION]]></category>
+		<category><![CDATA[Persistent]]></category>
+		<category><![CDATA[Primary Logs]]></category>
+		<category><![CDATA[Sender-Receiver]]></category>
+		<category><![CDATA[Types Of Message]]></category>
+		<category><![CDATA[USING TRIGDATA]]></category>
+		<category><![CDATA[What Is An Application]]></category>
+		<category><![CDATA[What Is DQM]]></category>
+		<category><![CDATA[What Is OS]]></category>
+		<category><![CDATA[What Is Platform]]></category>
+		<category><![CDATA[XShell]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1390</guid>
+		<description><![CDATA[To Learn IBM MQ Click Here! Queue Commands Define QLocal(Queue-name).. Define QLocal(Queue-Name) Usage(Xmitq) Define QAlias(Queue-Name) Target(Target-Queue-Name).. Define QRemote(Queue-Nmae) RName(Target-Queue_Name) RQMName(Target-QMGR-Name) Xmitq(Xmitq-Name) Define QModel(Queue_name) Deftype(Tempdyn/PermDyn) .. Display QLocal(Queue-Name) Display Qstatus(Queue-Name) Display..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-mq-series-queue-commands/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM WebSphere MQ V7 Admin Online Training</title>
+		<link>https://bigclasses.com/blog/ibm-websphere-mq-v7-admin-online-training</link>
+		<comments>https://bigclasses.com/blog/ibm-websphere-mq-v7-admin-online-training#respond</comments>
+		<pubDate>Mon, 25 Mar 2013 12:27:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ course]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ free demo]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ online training]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ training]]></category>
+		<category><![CDATA[IBM WEBSPHERE MQ tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1294</guid>
+		<description><![CDATA[BigClasses provides a job oriented, IBM MQ series online training. IBM MQ series is a part of the IBM WebSphere. MQ series is used for messaging between different systems softwares...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-websphere-mq-v7-admin-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IBM MQ Websphere Online training</title>
+		<link>https://bigclasses.com/blog/ibm-mq-websphere-online-training</link>
+		<comments>https://bigclasses.com/blog/ibm-mq-websphere-online-training#respond</comments>
+		<pubDate>Sat, 23 Mar 2013 13:21:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[IBM MQ]]></category>
+		<category><![CDATA[WebSphere]]></category>
+		<category><![CDATA[Message Descriptor]]></category>
+		<category><![CDATA[MQ Client]]></category>
+		<category><![CDATA[MQ Explorer]]></category>
+		<category><![CDATA[MQ MIGRATION]]></category>
+		<category><![CDATA[MQ Server]]></category>
+		<category><![CDATA[MQDISC MQCMIT]]></category>
+		<category><![CDATA[MQI Channels]]></category>
+		<category><![CDATA[MQSERVER Variable]]></category>
+		<category><![CDATA[On Linux]]></category>
+		<category><![CDATA[On Windows]]></category>
+		<category><![CDATA[Persistent]]></category>
+		<category><![CDATA[Primary Logs]]></category>
+		<category><![CDATA[Sender-Receiver]]></category>
+		<category><![CDATA[USING TRIGDATA]]></category>
+		<category><![CDATA[What Is DQM]]></category>
+		<category><![CDATA[XShell]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1291</guid>
+		<description><![CDATA[What Is Triggering &#38; Types Of Triggering In MQ Triggering: WebSphere MQ provides a feature that enables an application or channel to be started automatically when there are messages available..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ibm-mq-websphere-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HR Roles and Responsibilities</title>
+		<link>https://bigclasses.com/blog/hr-roles-and-responsibilities</link>
+		<comments>https://bigclasses.com/blog/hr-roles-and-responsibilities#respond</comments>
+		<pubDate>Fri, 13 Nov 2015 08:53:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[HR Roles]]></category>
+		<category><![CDATA[HR Roles and Responsibilities]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4294</guid>
+		<description><![CDATA[HR is concerned in designing the Job analysis description for a probable opportunity. A job analysis is the process used to gather information about the Duties, Responsibilities, Skills, Outcomes and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/hr-roles-and-responsibilities/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BO Architecture</title>
+		<link>https://bigclasses.com/blog/sap-bo-architecture</link>
+		<comments>https://bigclasses.com/blog/sap-bo-architecture#respond</comments>
+		<pubDate>Fri, 25 Sep 2015 07:53:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[Application Tier]]></category>
+		<category><![CDATA[Connection Server]]></category>
+		<category><![CDATA[Data Tier]]></category>
+		<category><![CDATA[Independent Web Applications]]></category>
+		<category><![CDATA[Intellect Tier]]></category>
+		<category><![CDATA[Processing Tier]]></category>
+		<category><![CDATA[SAP BO Architecture]]></category>
+		<category><![CDATA[Semantic Panels]]></category>
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3960</guid>
+		<description><![CDATA[SAP BO Definition: SAP Business Intelligence-BO explorer combines the simplicity and the speed of Internet exploration with the analytical control of business intelligence-for a quicker and more conversant decision making...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-bo-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP FICO Introduction</title>
+		<link>https://bigclasses.com/blog/sap-fico-introduction</link>
+		<comments>https://bigclasses.com/blog/sap-fico-introduction#respond</comments>
+		<pubDate>Wed, 23 Sep 2015 14:54:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP FICO]]></category>
+		<category><![CDATA[sap fico course]]></category>
+		<category><![CDATA[SAP FICO Online Training]]></category>
+		<category><![CDATA[SAP FICO Training]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3956</guid>
+		<description><![CDATA[SAP FICO stands for Financial Accounting and Controlling. It is an essential module of ERP and FI and Co modules stores the transactional and financial data. SAP FI (financial Accounting)..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-fico-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learn the new SAP BO</title>
+		<link>https://bigclasses.com/blog/learn-the-new-sap-bo-4</link>
+		<comments>https://bigclasses.com/blog/learn-the-new-sap-bo-4#respond</comments>
+		<pubDate>Tue, 27 May 2014 12:47:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO Architecture]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=3266</guid>
+		<description><![CDATA[BigClasses offers SAP BO online training with all its new features on a real-time basis by very experienced and leading consultant. Some of the new features mention below Web Intelligence..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/learn-the-new-sap-bo-4/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA Lifecycle Management</title>
+		<link>https://bigclasses.com/blog/sap-hana-lifecycle-management</link>
+		<comments>https://bigclasses.com/blog/sap-hana-lifecycle-management#respond</comments>
+		<pubDate>Tue, 27 May 2014 10:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana classes]]></category>
+		<category><![CDATA[sap hana course]]></category>
+		<category><![CDATA[sap hana online classes]]></category>
+		<category><![CDATA[sap hana online course]]></category>
+		<category><![CDATA[sap hana online trainig]]></category>
+		<category><![CDATA[sap hana training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=3261</guid>
+		<description><![CDATA[SAP HANA includes lifecycle management system for updating and customizing your SAP HANA platform and for managing products and transports of SAP HANA. Some of the services offered by SAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-lifecycle-management/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It’s very easy to plan and control a decentralized company</title>
+		<link>https://bigclasses.com/blog/its-very-easy-to-plan-and-control-a-decentralized-company</link>
+		<comments>https://bigclasses.com/blog/its-very-easy-to-plan-and-control-a-decentralized-company#respond</comments>
+		<pubDate>Sat, 15 Feb 2014 07:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP FICO]]></category>
+		<category><![CDATA[sap fico course]]></category>
+		<category><![CDATA[SAP FICO Online Training]]></category>
+		<category><![CDATA[SAP FICO Training]]></category>
+		<category><![CDATA[sap fico tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2807</guid>
+		<description><![CDATA[Cost Center Accounting: You use Cost Center Accounting for controlling function within your organization. The costs acquire by your organization must be crystal clear. This enables you to check the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/its-very-easy-to-plan-and-control-a-decentralized-company/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Structure of an ABAP Application Server</title>
+		<link>https://bigclasses.com/blog/structure-of-an-abap-application-server</link>
+		<comments>https://bigclasses.com/blog/structure-of-an-abap-application-server#respond</comments>
+		<pubDate>Thu, 13 Feb 2014 14:58:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[sap abap aplication server]]></category>
+		<category><![CDATA[sap abap demo]]></category>
+		<category><![CDATA[sap abap learning online]]></category>
+		<category><![CDATA[sap abap online classes]]></category>
+		<category><![CDATA[SAP ABAP Online Training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2802</guid>
+		<description><![CDATA[&#160; Components of Application Server Work Processes Dispatcher Gateway Shared Memory Database Connection Work Processes An application server encloses work processes, which are constituents that can run an application. Each..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/structure-of-an-abap-application-server/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BASIS Training – Introducing SAP Web Dispatcher</title>
+		<link>https://bigclasses.com/blog/sap-basis-training-introducing-sap-web-dispatcher</link>
+		<comments>https://bigclasses.com/blog/sap-basis-training-introducing-sap-web-dispatcher#respond</comments>
+		<pubDate>Wed, 11 Dec 2013 13:21:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BASIS]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2769</guid>
+		<description><![CDATA[There is a huge demand of SAP BASIS course across the world. BigClasses provides excellent SAP BASIS online training with interactive online sessions. Our SAP BASIS training will teach every..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-basis-training-introducing-sap-web-dispatcher/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Be a Successful SAP ABAP Developer</title>
+		<link>https://bigclasses.com/blog/how-to-be-a-successful-sap-abap-developer</link>
+		<comments>https://bigclasses.com/blog/how-to-be-a-successful-sap-abap-developer#respond</comments>
+		<pubDate>Mon, 09 Dec 2013 13:35:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP ABAP]]></category>
+		<category><![CDATA[abap online training]]></category>
+		<category><![CDATA[sap abap course online sap abap video training]]></category>
+		<category><![CDATA[sap abap developement project]]></category>
+		<category><![CDATA[sap abap faq]]></category>
+		<category><![CDATA[sap abap free demo]]></category>
+		<category><![CDATA[sap abap learning]]></category>
+		<category><![CDATA[sap abap materials]]></category>
+		<category><![CDATA[sap abap notes]]></category>
+		<category><![CDATA[SAP ABAP Online Training.]]></category>
+		<category><![CDATA[sap abap programmer]]></category>
+		<category><![CDATA[sap bap interview questions]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2756</guid>
+		<description><![CDATA[ABAP development is very critical in addressing any solution gaps, custom development on any SAP project. It is very important to know a lot of diverse programming aspects during a..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/how-to-be-a-successful-sap-abap-developer/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basics of SAP Business Objects</title>
+		<link>https://bigclasses.com/blog/basics-of-sap-business-objects</link>
+		<comments>https://bigclasses.com/blog/basics-of-sap-business-objects#respond</comments>
+		<pubDate>Mon, 09 Dec 2013 08:24:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO Architecture]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2751</guid>
+		<description><![CDATA[SAP BO is an enterprise which provides Business Intelligence for the companies. There are several institutes providing SAP BO training. In BigClasses you will find outstanding SAP BO online training..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/basics-of-sap-business-objects/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

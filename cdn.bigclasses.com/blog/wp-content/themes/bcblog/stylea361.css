@@ -1,0 +1,156 @@
+/*
+ Theme Name:   bcblog
+ Theme URI:    http://bigclasses.com/blog/
+ Description:  BigClasses.com Blog Child Theme 
+ Author:       BigClasses
+ Template:     bresponzive
+ Version:      9.9.9
+*/
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i&amp;display=swap');
+
+
+@import url("../bresponzive/style.css");.blogpost-wrapper-title{font-size: 17px!important;text-transform:uppercase;}#catnav.secondary ul a,body,h1,h1 a,h2,h2 a,h3,h3 a,h4,h4 a,h5,h5 a,h6,h6 a,p{font-family: 'Poppins', sans-serif !important}.widget-head,h2.blogpost-wrapper-title{background:#000;font-family:Lato,sans-serif;}body{background:#FFF;font-family: 'Poppins', sans-serif !important}.post-meta-blog{display:none}.magbig-thumb{height:150px;width:250px}.list-block{width:63%;color:#000}.blogposts-wrapper{margin:0}.maga-excerpt p{font-size:15px;letter-spacing: 0.5px;line-height: 25px;color:#555}p{color:#000;text-align:justify;font-size:15px !important;}
+.tpcrn-read-more{line-height:1;clear:none;padding:0;color:#1070d0;background:0 0;display:inline-block;font-size:17px;font-weight:900}.tpcrn-read-more:hover{background:rgba(22,22,21,0);color:#1A940D;text-decoration:underline}.blog-lists-blog h2{font-size:19px;margin-bottom:5px;color:#000;line-height:30px;margin-top:-5px}h1,h2,h3,h4,h5,h6{color:#000;line-height:1.27;font-weight:600}#catnav.secondary ul a{padding: 0px 14px;height:40px;line-height:40px;font-size:15px;text-transform:capitalize;font-weight:600}#catnav.secondary{background:#08c}#catnav ul li.dropme a,#catnav.secondary ul li.current-menu-item,#catnav.secondary>ul>li a:hover{background:#1070D0}.blog-lists-blog h3{color:#000;font-size:27px}.blog-lists-blog h3 a:hover{color:#1070D0}.blogposts-inner{box-shadow: 0px 1px 9px rgba(0,0,0,0.2);margin: 11px 2px;padding: 30px 24px 0px;}.searchform input[type=text],.subsform input[type=text]{background:#FFF;margin-right:0;padding:10px;width:90%;border:1px solid #ccc;font-size:14px;border-bottom:5px solid #1070d0}#sidebar{float:right;margin-top:0}.sidebar-widget{margin-bottom:10px}#footer .foot-wrap p.copyright{float:none;margin-left:15px;color:#AFAFAF;text-align:center}#footer{position:relative;background:#1070D0;min-height:41px;margin:0 auto;line-height:41px;font-size:14px;padding:5px 0;border-top:1px solid #1070d0;text-align:center;font-weight:800;width: 100%;}.post_content li,.post_content p{line-height:25px}#catnav ul a{padding:0 10px;font-weight:600;text-transform:none}.pagination{border-bottom:0}.page-numbers.dots,.pagination .current,.pagination a{background:#1070D0}#logo{margin:0}#head-content{padding:10px 0;min-height:70px}.blogposts-inner:hover #sharebox{opacity:1;transition:all 1s ease-in-out}#sharebox,.blogposts-inner:hover #sharebox{-webkit-transition:all 1s ease-in-out;-moz-transition:all 1s ease-in-out;-o-transition:all 1s ease-in-out}#sharebox{opacity:0;text-indent:0;transition:all 1s ease-in-out;margin-left:295px}.sharebox-new:hover #sharebox-mobile{transition:all 1s ease-in-out}#sharebox-mobile,.sharebox-new:hover #sharebox-mobile{opacity:1;-webkit-transition:all 1s ease-in-out;-moz-transition:all 1s ease-in-out;-o-transition:all 1s ease-in-out}#sharebox-mobile{text-indent:0;margin-left:0;margin-top:5px;transition:all 1s ease-in-out}#catnav.secondary ul.sub-menu li a{font-size:13px;font-weight:600}input.wpcf7-form-control.wpcf7-quiz,input.wpcf7-form-control.wpcf7-text{border:1px solid #fff;padding:5px;width:100%;font-size:15px;border-radius:4px;margin-bottom:10px}textarea.wpcf7-form-control.wpcf7-textarea{border:1px solid #fff;width:100%;border-radius:4px;height:50px;padding:5px}input.wpcf7-form-control.wpcf7-quiz{width:25%!important}span.wpcf7-quiz-label{color:#fff;font-size:16px}input.wpcf7-form-control.wpcf7-submit{border:1px solid #08c;width:30%;font-size:18px;border-radius:4px;color:#fff;margin:15px 0px 0px 15px;float: right;padding: 5px;
+    font-size: 15px;background-color:#08c}img.ajax-loader{display:none!important}#wrapper{box-shadow:none;-webkit-box-shadow:none}#wrapper-container{margin:0}.post_content li{font-size:15px !important;}#catnav{background:#eee;font-size:15px;font-weight:700}div#logo{width:200px}li#menu-item-3321 {background-color: red;}@media only screen and (max-width: 1199px){.list-block {width: 49%;}}.blog-lists-blog h2:hover {color: #1070D0;}
+.searchform{width: 100% !important;}
+.post-content{padding: 0px !important;}#text-9>div>div>form>div {background-color: #e0e0e0 !important;}
+.informatica-job{display: inline;}
+.why-bigdata>img{width:355px;padding: 23px 0px 23px 0px;}
+.why-bigdata{text-align: -webkit-center;}
+.call-to-action p{background-color: #08c;padding: 7px;color: #fff !important;}
+.call-to-action>p>span a{color: #ffd300 !important;}
+p {color: #424242 !important;}
+.sub-head{    color:#ca7800;font-size: 17px;padding: 5px 0px 15px 0px;}
+.bigdata-Professionals-image{text-align: -webkit-center;}
+.bigdata-Professionals-image>img{width:500px;padding: 23px 0px 23px 0px;}
+.bigdata-growth-image{text-align: -webkit-center;}
+.bigdata-growth-image>img{padding: 23px 0px 23px 0px;}
+.BigData-Opportunities-image{text-align: -webkit-center;}
+.BigData-Opportunities-image>img{width:500px;padding: 23px 0px 23px 0px;}
+.mean-by-BigData-image{text-align: -webkit-center;}
+.mean-by-BigData-image>img{width:319px;padding: 23px 0px 23px 0px;}
+.hadoop-components-image{text-align: -webkit-center;}
+.hadoop-components-image>img{width:593px;padding: 23px 0px 23px 0px;}
+.hadoop-jobtracker-image{text-align: -webkit-center;}
+.hadoop-jobtracker-image>img{width:593px;padding: 23px 0px 23px 0px;}
+.Hadoop-modes-image{text-align: -webkit-center;}
+.Hadoop-modes-image>img{width:550px;padding: 23px 0px 23px 0px;}
+.hadoop-archictech-image{text-align: -webkit-center;}
+.hadoop-archictech-image>img{width:550px;padding: 23px 0px 23px 0px;}
+.hadoop-analysis-image{text-align: -webkit-center;}
+.hadoop-analysis-image>img{width:361px;padding: 23px 0px 23px 0px;}
+.bigdata-business-image{text-align: -webkit-center;}
+.bigdata-business-image>img{    width: 560px; padding: 16px 0px 17px 0px;}
+.bigdata-Characteristics-image{text-align: -webkit-center;}
+.bigdata-Characteristics-image>img{width:600px;padding: 23px 0px 23px 0px;}
+.wpcf7-form p{color:#fff !important;}
+.aws>.image1{
+     width: 500px;
+     margin-left: 100px;
+     padding-top: 20px;
+     padding-bottom: 20px;}
+.aws>.image2{ 
+       width: 500px;
+       margin-left: 100px; 
+       padding-top: 20px; 
+       padding-bottom: 20px;}
+.aws>.image3{
+          width:324px;
+           margin-left:200px;     
+           padding-top:15px;
+          padding-bottom:15px;
+}
+.post-title h1{
+font-size:29px !important;
+font-weight:600;
+}
+
+.aws2>.aws2img1{
+    margin-left: 180px;     
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:445px;
+}
+.aws2>.aws2img2{
+     margin-left: 180px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:350px;
+}
+.aws2>.aws2img3{
+      margin-left: 180px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      width:350px;
+}
+.sales>.image1{
+    width: 500px;
+    margin-left: 130px; 
+    padding: 20px;
+}
+.salesimage1{
+     width: 500px;
+    padding: 20px;
+    margin-left: 150px;
+}
+.salesimage2{
+     width: 500px;
+    padding: 20px;
+    margin-left: 150px;
+}
+.sap>.image1{
+margin-left: 100px;
+}
+.python-img>img{
+	margin: 8px 17px 16px 125px;
+	width: 390px;
+}
+.BA-img>img{
+	margin-left: 202px;
+    margin-bottom: 12px;
+	width: 350px;
+}
+.BA-img1>img{
+	margin-left: 166px;
+    margin-bottom: 12px;
+    width: 388px;
+}
+.selimage{
+	 width:500px;
+    margin-top:30px;
+	margin-left: 115px;
+}
+.awsbttn1 a {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 15px;
+    border: 1px solid #08c;
+    border-radius: 20px;
+    background: #00008c;
+    background: -webkit-gradient(linear, left top, left bottom, from(#00008c), to(#003edb));
+    background: -moz-linear-gradient(top, #08c, #08c);
+    background: linear-gradient(to bottom, #08c, #08c);
+    text-shadow: #000046 1px 1px 1px;
+    font: normal normal bold 17px arial;
+    color: #ffffff;
+    text-decoration: none;
+	margin-left: 237px;
+	margin-bottom:20px;
+    margin-top: 15px;
+}
+.awsbttn1:hover a,
+.awsbttn1:focus a {
+    background: #08c;
+    background: -webkit-gradient(linear, left top, left bottom, from(#08c), to(#08c));
+    background: -moz-linear-gradient(top, #08c, #08c);
+    background: linear-gradient(to bottom, #08c, #08c);
+    color: #ffffff;
+    text-decoration: none;
+}
+.awsbttn1:active a {
+    background: #08c;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000054), to(#003edb));
+    background: -moz-linear-gradient(top, #000054, #003edb);
+    background: linear-gradient(to bottom, #08c, #08c);
+}

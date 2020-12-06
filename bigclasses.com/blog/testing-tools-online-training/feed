@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Testing Tools &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/testing-tools-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Testing Tools &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Need Of Load Testing and The Common Errors to Avoid while Load Testing</title>
+		<link>https://bigclasses.com/blog/the-need-of-load-testing-and-the-common-errors-to-avoid-while-load-testing</link>
+		<comments>https://bigclasses.com/blog/the-need-of-load-testing-and-the-common-errors-to-avoid-while-load-testing#respond</comments>
+		<pubDate>Tue, 31 May 2016 09:03:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[performance testing]]></category>
+		<category><![CDATA[qa testing]]></category>
+		<category><![CDATA[selenium online training]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4437</guid>
+		<description><![CDATA[AN INTRODUCTION: In these days of digital business scenario, organizations demand that their websites/applications be more competitive. They would never perhaps want to encounter a Situation where they would have..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/the-need-of-load-testing-and-the-common-errors-to-avoid-while-load-testing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Who Qualifies For A Good Tester</title>
+		<link>https://bigclasses.com/blog/who-qualifies-for-a-good-tester</link>
+		<comments>https://bigclasses.com/blog/who-qualifies-for-a-good-tester#respond</comments>
+		<pubDate>Mon, 30 May 2016 13:37:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[quality assurance]]></category>
+		<category><![CDATA[selenium]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4434</guid>
+		<description><![CDATA[Before we understand about the attributes that a proficient software tester with an advanced training on testing tools would need to possess, let us understand the simple fact that that..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/who-qualifies-for-a-good-tester/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Relevance Of Quality Assurance and Testing in Digital Transformation</title>
+		<link>https://bigclasses.com/blog/relevance-qaulity-assurance-testing-digital-transformation</link>
+		<comments>https://bigclasses.com/blog/relevance-qaulity-assurance-testing-digital-transformation#respond</comments>
+		<pubDate>Fri, 27 May 2016 14:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[quality assurance training]]></category>
+		<category><![CDATA[software quality]]></category>
+		<category><![CDATA[testing tools trainning]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4426</guid>
+		<description><![CDATA[THE CURRENT TREND: Change, metamorphosis and transformation have indeed become the order of today’s incredibly technologically advanced global world. Now, with the entire world moving on and relying on technology..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/relevance-qaulity-assurance-testing-digital-transformation/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Challenges Encountered by QA/Testing Teams in Devops</title>
+		<link>https://bigclasses.com/blog/challenges-encountered-qa-testing-teams-devops</link>
+		<comments>https://bigclasses.com/blog/challenges-encountered-qa-testing-teams-devops#respond</comments>
+		<pubDate>Fri, 27 May 2016 13:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[quality assurance training]]></category>
+		<category><![CDATA[software testing]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4419</guid>
+		<description><![CDATA[A BRIEF OVERVIEW Quality Assurance has always been a progressive discipline in the realms of online software Testing training and development. With the continuous advancements in the IT industry, the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/challenges-encountered-qa-testing-teams-devops/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Selenium Basics and Introduction-infogrphic</title>
+		<link>https://bigclasses.com/blog/selenium-basics-and-introduction</link>
+		<comments>https://bigclasses.com/blog/selenium-basics-and-introduction#respond</comments>
+		<pubDate>Tue, 20 Oct 2015 09:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Selenium]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[selenium basics]]></category>
+		<category><![CDATA[selenium infographic]]></category>
+		<category><![CDATA[selenium introduction]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4280</guid>
+		<description><![CDATA[Selenium Basics infographic About Selenium Tools Online Training @ BigClasses BigClasses is one of the best online training organizations offer Selenium Tools training. We have qualified and experienced faculties who..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/selenium-basics-and-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Database Testing and Data Warehouse Testing through ETL testing training</title>
+		<link>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training</link>
+		<comments>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training#respond</comments>
+		<pubDate>Thu, 13 Feb 2014 14:45:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[crud values]]></category>
+		<category><![CDATA[data destination]]></category>
+		<category><![CDATA[data transformation]]></category>
+		<category><![CDATA[database fields]]></category>
+		<category><![CDATA[database testing]]></category>
+		<category><![CDATA[datawarehousing testing]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[etl tool]]></category>
+		<category><![CDATA[extration of etl tool]]></category>
+		<category><![CDATA[object fields of etl]]></category>
+		<category><![CDATA[olap database]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2790</guid>
+		<description><![CDATA[There is an accepted misunderstanding that database and data warehouse testing is similar while the verity is that both hold different direction in testing. Database testing is done using a..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Overview and Role of ETL Testing</title>
+		<link>https://bigclasses.com/blog/overview-and-role-of-etl-testing</link>
+		<comments>https://bigclasses.com/blog/overview-and-role-of-etl-testing#respond</comments>
+		<pubDate>Tue, 03 Dec 2013 12:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[Etl testing]]></category>
+		<category><![CDATA[ETL Testing courses]]></category>
+		<category><![CDATA[etl testing demo]]></category>
+		<category><![CDATA[etl testing online training]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[etl testing tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2720</guid>
+		<description><![CDATA[If you are considering yourself as a part of IT industry, you should have heard the term data warehouses and about the analyses tools. Every day various businesses are starting..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/overview-and-role-of-etl-testing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Don’t Suffer with a Faulty Application, Make It Error Free</title>
+		<link>https://bigclasses.com/blog/dont-suffer-with-a-faulty-application-make-it-error-free</link>
+		<comments>https://bigclasses.com/blog/dont-suffer-with-a-faulty-application-make-it-error-free#respond</comments>
+		<pubDate>Wed, 27 Nov 2013 14:42:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Manual Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[Manual Testing course]]></category>
+		<category><![CDATA[Manual Testing demo]]></category>
+		<category><![CDATA[Manual Testing online Training]]></category>
+		<category><![CDATA[manual testing training]]></category>
+		<category><![CDATA[Manual Testing tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2683</guid>
+		<description><![CDATA[Manual Testing Online TrainingOverview The Manual testing training program is planned to give the learners proper skills and knowledge to increase a competitive advantage in starting a career in software..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/dont-suffer-with-a-faulty-application-make-it-error-free/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Testing Tools Online Training</title>
+		<link>https://bigclasses.com/blog/testing-tools-online-training</link>
+		<comments>https://bigclasses.com/blog/testing-tools-online-training#respond</comments>
+		<pubDate>Fri, 12 Apr 2013 12:26:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[testing tools course]]></category>
+		<category><![CDATA[testing tools demo]]></category>
+		<category><![CDATA[Testing Tools Online Training]]></category>
+		<category><![CDATA[Testing Tools Training]]></category>
+		<category><![CDATA[testing tools tutorials]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1554</guid>
+		<description><![CDATA[Use of software Testing Tools: The use of testing tools application can stunningly reduce testing, increase the defect come by rate and in the end achieve a larger launch high..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/testing-tools-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Testing Tools Online Training</title>
+		<link>https://bigclasses.com/blog/software-testing-tools-training</link>
+		<comments>https://bigclasses.com/blog/software-testing-tools-training#respond</comments>
+		<pubDate>Tue, 29 Jan 2013 16:09:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[etl testing tools free demo]]></category>
+		<category><![CDATA[testing tools course]]></category>
+		<category><![CDATA[Testing Tools Online Training]]></category>
+		<category><![CDATA[Testing Tools Training]]></category>
+		<category><![CDATA[testing tools tutorials]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=763</guid>
+		<description><![CDATA[Software testing is a process used to identify the correctness, completeness, and quality of developed computer software.&#160;It includes a set of activities conducted with the intent of finding errors in..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/software-testing-tools-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

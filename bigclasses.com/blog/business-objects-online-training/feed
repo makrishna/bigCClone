@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business Objects &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/business-objects-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Business Objects &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Learn the new SAP BO</title>
+		<link>https://bigclasses.com/blog/learn-the-new-sap-bo-4</link>
+		<comments>https://bigclasses.com/blog/learn-the-new-sap-bo-4#respond</comments>
+		<pubDate>Tue, 27 May 2014 12:47:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO Architecture]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=3266</guid>
+		<description><![CDATA[BigClasses offers SAP BO online training with all its new features on a real-time basis by very experienced and leading consultant. Some of the new features mention below Web Intelligence..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/learn-the-new-sap-bo-4/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basics of SAP Business Objects</title>
+		<link>https://bigclasses.com/blog/basics-of-sap-business-objects</link>
+		<comments>https://bigclasses.com/blog/basics-of-sap-business-objects#respond</comments>
+		<pubDate>Mon, 09 Dec 2013 08:24:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO Architecture]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2751</guid>
+		<description><![CDATA[SAP BO is an enterprise which provides Business Intelligence for the companies. There are several institutes providing SAP BO training. In BigClasses you will find outstanding SAP BO online training..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/basics-of-sap-business-objects/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Business Objects Online Training at Your Door Step</title>
+		<link>https://bigclasses.com/blog/business-objects-online-training-at-your-door-step</link>
+		<comments>https://bigclasses.com/blog/business-objects-online-training-at-your-door-step#respond</comments>
+		<pubDate>Sat, 16 Nov 2013 12:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[Business Objects course]]></category>
+		<category><![CDATA[business objects online training]]></category>
+		<category><![CDATA[Business Objects Training]]></category>
+		<category><![CDATA[Business Objects tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2614</guid>
+		<description><![CDATA[Business Objects online training by BigClasses is a structured remote learning system. Our Business Objects training combines all modules of the SAP Business Objects solution along with the SAP Business..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/business-objects-online-training-at-your-door-step/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Business Objects Overview &#124; BO Online Course</title>
+		<link>https://bigclasses.com/blog/business-objects-overview-bo-online-course</link>
+		<comments>https://bigclasses.com/blog/business-objects-overview-bo-online-course#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 11:58:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2527</guid>
+		<description><![CDATA[What is BO? Business Objects is a combined query, reporting and analysis solution for business experts which allow them to access the data in their corporate databases directly from their..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/business-objects-overview-bo-online-course/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Business Objects Crystal Report training</title>
+		<link>https://bigclasses.com/blog/businessobjects-crystal-report-training</link>
+		<comments>https://bigclasses.com/blog/businessobjects-crystal-report-training#respond</comments>
+		<pubDate>Mon, 29 Apr 2013 11:43:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1796</guid>
+		<description><![CDATA[SAP Business Objects  Crystal Reports is a thick client report design tool, fully integrated with the SAP Business Objects Enterprise platform. Crystal Reports is an application that permits users to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/businessobjects-crystal-report-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Business Objects Online Training</title>
+		<link>https://bigclasses.com/blog/business-objects-online-training</link>
+		<comments>https://bigclasses.com/blog/business-objects-online-training#respond</comments>
+		<pubDate>Wed, 20 Feb 2013 12:52:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Calculate data with formulas and variables]]></category>
+		<category><![CDATA[Conversion functions]]></category>
+		<category><![CDATA[Creating Measure Objects]]></category>
+		<category><![CDATA[Design a report]]></category>
+		<category><![CDATA[Dimensional modeling]]></category>
+		<category><![CDATA[Information flow]]></category>
+		<category><![CDATA[Intelligence tier]]></category>
+		<category><![CDATA[OLTP vs. OLAP]]></category>
+		<category><![CDATA[Types of OLAP]]></category>
+		<category><![CDATA[Using Hierarchies]]></category>
+		<category><![CDATA[Views/Materialized Views]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=977</guid>
+		<description><![CDATA[Business Objects like any other Reporting tool, can access from different databases. Although SAP mainly provides the business warehouse model of integrating all SAP owned tools, it is still rich..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/business-objects-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

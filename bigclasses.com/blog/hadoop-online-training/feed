@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hadoop &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/hadoop-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Hadoop &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hadoop Architechture – What It Is And How It Is Important?</title>
+		<link>https://bigclasses.com/blog/hadoop-architechture</link>
+		<comments>https://bigclasses.com/blog/hadoop-architechture#respond</comments>
+		<pubDate>Fri, 24 Nov 2017 11:55:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=5240</guid>
+		<description><![CDATA[Apache Hadoop is a very famous and the most demandable open-source software framework. It is basically used for storage and large-scale processing of data-sets on clusters of commodity hardware. Talking..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/hadoop-architechture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is Hadoop and Frequently Asked Hadoop Interview Questions.</title>
+		<link>https://bigclasses.com/blog/what-is-hadoop-and-frequently-asked-hadoop-interview-questions</link>
+		<comments>https://bigclasses.com/blog/what-is-hadoop-and-frequently-asked-hadoop-interview-questions#respond</comments>
+		<pubDate>Thu, 23 Nov 2017 11:31:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=5209</guid>
+		<description><![CDATA[Big data and Hadoop are very popular term and if we plan to have the same skill set, it means &#8211; nobody can’t stop us to fetch our career goals..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/what-is-hadoop-and-frequently-asked-hadoop-interview-questions/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understanding Big Data And Proficient Use Of Hadoop</title>
+		<link>https://bigclasses.com/blog/understanding-big-data-proficient-use-hadoop</link>
+		<comments>https://bigclasses.com/blog/understanding-big-data-proficient-use-hadoop#respond</comments>
+		<pubDate>Mon, 09 May 2016 11:56:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[dot net training]]></category>
+		<category><![CDATA[hadoop]]></category>
+		<category><![CDATA[hadoop course]]></category>
+		<category><![CDATA[hadoop free demo]]></category>
+		<category><![CDATA[HADOOP online training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[hadoop tutorial]]></category>
+		<category><![CDATA[hadoop with big data]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4412</guid>
+		<description><![CDATA[In case, you are willing to start your career in this Big Data sector, you must be aware of the simple tips and the fastest growing trends taking place in..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/understanding-big-data-proficient-use-hadoop/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reasons to Choose Big Data Analyst as Your Career Move</title>
+		<link>https://bigclasses.com/blog/reasons-choose-big-data-analyst-career-move</link>
+		<comments>https://bigclasses.com/blog/reasons-choose-big-data-analyst-career-move#respond</comments>
+		<pubDate>Wed, 04 May 2016 14:27:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[hadoop]]></category>
+		<category><![CDATA[hadoop course]]></category>
+		<category><![CDATA[hadoop free demo]]></category>
+		<category><![CDATA[HADOOP online training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4398</guid>
+		<description><![CDATA[Whenever you are going to turn, you will see use of Big data. It has now become more or less an urgent call for preserving and collecting data, which has..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/reasons-choose-big-data-analyst-career-move/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Points To Know While Cracking Hadoop Developer Interview</title>
+		<link>https://bigclasses.com/blog/points-know-cracking-hadoop-developer-interview</link>
+		<comments>https://bigclasses.com/blog/points-know-cracking-hadoop-developer-interview#respond</comments>
+		<pubDate>Mon, 02 May 2016 15:13:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[hadoop]]></category>
+		<category><![CDATA[hadoop course]]></category>
+		<category><![CDATA[hadoop free demo]]></category>
+		<category><![CDATA[HADOOP online training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4393</guid>
+		<description><![CDATA[The recent Google statistics clearly state that nearly 84% of companies has already incorporated big data in their rulebook, or in the verge of doing so. At Big Data is..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/points-know-cracking-hadoop-developer-interview/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Do You Need Java Basics To Be A Part Of Hadoop Training?</title>
+		<link>https://bigclasses.com/blog/need-java-basics-part-hadoop-training</link>
+		<comments>https://bigclasses.com/blog/need-java-basics-part-hadoop-training#respond</comments>
+		<pubDate>Sat, 30 Apr 2016 13:45:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[hadoop]]></category>
+		<category><![CDATA[hadoop course]]></category>
+		<category><![CDATA[hadoop free demo]]></category>
+		<category><![CDATA[HADOOP online training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4386</guid>
+		<description><![CDATA[To learn the knick and knacks of Hadoop and build a strong career, you need to incorporate Java teachings in your learning process. For most of the professionals from a..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/need-java-basics-part-hadoop-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Change The Flow Of Your Work With Big Data Training</title>
+		<link>https://bigclasses.com/blog/change-flow-work-big-data-training</link>
+		<comments>https://bigclasses.com/blog/change-flow-work-big-data-training#respond</comments>
+		<pubDate>Fri, 29 Apr 2016 14:32:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4375</guid>
+		<description><![CDATA[At present, you might come across some bigger threats in the field of Big Data Marketing and analytics. Whether you are associated with a larger community or a smaller one,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/change-flow-work-big-data-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Important Big Data Terminologies To Come Across</title>
+		<link>https://bigclasses.com/blog/important-big-data-terminologies-come-across</link>
+		<comments>https://bigclasses.com/blog/important-big-data-terminologies-come-across#respond</comments>
+		<pubDate>Wed, 27 Apr 2016 11:59:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[big data Hadoop]]></category>
+		<category><![CDATA[big data Hadoop course]]></category>
+		<category><![CDATA[big data Hadoop free demo]]></category>
+		<category><![CDATA[big data hadoop online training]]></category>
+		<category><![CDATA[big data hadoop training]]></category>
+		<category><![CDATA[big data Hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4369</guid>
+		<description><![CDATA[Before you proceed further and be ahead developer of Big Data ecosystem, you must have vital information on the terminologies, associated with this sector. It helps you to know everything..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/important-big-data-terminologies-come-across/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Everything Important To Big Data And Its Growing Usage</title>
+		<link>https://bigclasses.com/blog/everything-important-related-big-data-growing-usage</link>
+		<comments>https://bigclasses.com/blog/everything-important-related-big-data-growing-usage#respond</comments>
+		<pubDate>Wed, 27 Apr 2016 10:46:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[big data Hadoop]]></category>
+		<category><![CDATA[big data Hadoop course]]></category>
+		<category><![CDATA[big data Hadoop free demo]]></category>
+		<category><![CDATA[big data hadoop online training]]></category>
+		<category><![CDATA[big data hadoop training]]></category>
+		<category><![CDATA[big data Hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4363</guid>
+		<description><![CDATA[It is hard to find a single definition of Big data. There are diversified meanings available. Most of the authors define big data by some of their characteristics, like velocity,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/everything-important-related-big-data-growing-usage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Checklist Before Starting With Hadoop Framework</title>
+		<link>https://bigclasses.com/blog/checklist-starting-hadoop-framework</link>
+		<comments>https://bigclasses.com/blog/checklist-starting-hadoop-framework#respond</comments>
+		<pubDate>Mon, 25 Apr 2016 12:45:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[hadoop]]></category>
+		<category><![CDATA[hadoop course]]></category>
+		<category><![CDATA[hadoop free demo]]></category>
+		<category><![CDATA[HADOOP online training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4359</guid>
+		<description><![CDATA[Are you planning to analyze big data in Hadoop framework? If so, there are some points, which you need to be aware of, first. More firms are now recently working..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/checklist-starting-hadoop-framework/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SQLServer DBA &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sqlserver-dba-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SQLServer DBA &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Basics of MS SQL Server Training</title>
+		<link>https://bigclasses.com/blog/basics-of-ms-sql-server-training</link>
+		<comments>https://bigclasses.com/blog/basics-of-ms-sql-server-training#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 10:35:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[SQLServer DBA]]></category>
+		<category><![CDATA[ms sql server]]></category>
+		<category><![CDATA[ms sql server course]]></category>
+		<category><![CDATA[ms sql server demo]]></category>
+		<category><![CDATA[ms sql server online training]]></category>
+		<category><![CDATA[ms sql server training]]></category>
+		<category><![CDATA[ms sql server tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2566</guid>
+		<description><![CDATA[MS SQL Server is a relational database management system, which is developed by Microsoft. The primary function of SQL Server is to store and retrieve data as requested. There are..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/basics-of-ms-sql-server-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Become a SQL Server DBA</title>
+		<link>https://bigclasses.com/blog/how-to-become-a-sql-server-dba</link>
+		<comments>https://bigclasses.com/blog/how-to-become-a-sql-server-dba#respond</comments>
+		<pubDate>Mon, 22 Apr 2013 12:22:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[SQLServer DBA]]></category>
+		<category><![CDATA[SQL Server DBA]]></category>
+		<category><![CDATA[SQL Server DBA course]]></category>
+		<category><![CDATA[SQL Server DBA demo]]></category>
+		<category><![CDATA[SQL Server DBA online training]]></category>
+		<category><![CDATA[SQL Server DBA Training]]></category>
+		<category><![CDATA[SQL Server DBA Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1730</guid>
+		<description><![CDATA[Acquiring your terribly initial role as a Junior SQL Server DBA isn&#8217;t a straightforward task. simply browse anyone of the numerous job sites advertising SQL Server DBA job vacancies and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/how-to-become-a-sql-server-dba/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SQL Server DBA online training</title>
+		<link>https://bigclasses.com/blog/sql-dba-online-training</link>
+		<comments>https://bigclasses.com/blog/sql-dba-online-training#respond</comments>
+		<pubDate>Mon, 15 Apr 2013 08:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[SQLServer DBA]]></category>
+		<category><![CDATA[SQL Server DBA]]></category>
+		<category><![CDATA[SQL Server DBA course]]></category>
+		<category><![CDATA[SQL Server DBA demo]]></category>
+		<category><![CDATA[SQL Server DBA online training]]></category>
+		<category><![CDATA[SQL Server DBA Training]]></category>
+		<category><![CDATA[SQL Server DBA Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1565</guid>
+		<description><![CDATA[What is DBA? Database administrator is a person responsible for the design, implementation, and maintenance and repair of the database. The main goal of  SQL Server DBA (DBA) is to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sql-dba-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MS SQL Server DBA 2008 training</title>
+		<link>https://bigclasses.com/blog/ms-sql-server-dba-2008-training</link>
+		<comments>https://bigclasses.com/blog/ms-sql-server-dba-2008-training#respond</comments>
+		<pubDate>Wed, 10 Apr 2013 12:58:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[SQLServer DBA]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1547</guid>
+		<description><![CDATA[SQL Server DBA Training: Microsoft SQL Server is software system that meanly permits you to make SQL servers and build and host many strong and stable databases on those servers...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ms-sql-server-dba-2008-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

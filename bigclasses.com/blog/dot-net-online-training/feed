@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DOT Net &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/dot-net-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>DOT Net &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Java vs.Dot Net Online Training</title>
+		<link>https://bigclasses.com/blog/java-vs-dot-net-online-training</link>
+		<comments>https://bigclasses.com/blog/java-vs-dot-net-online-training#respond</comments>
+		<pubDate>Mon, 02 Dec 2013 13:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced Java]]></category>
+		<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[asp.net ajax]]></category>
+		<category><![CDATA[asp.net javascript]]></category>
+		<category><![CDATA[asp.net list box]]></category>
+		<category><![CDATA[asp.net mvc]]></category>
+		<category><![CDATA[asp.net namespace]]></category>
+		<category><![CDATA[asp.net online training]]></category>
+		<category><![CDATA[java applications]]></category>
+		<category><![CDATA[java basics]]></category>
+		<category><![CDATA[java collections]]></category>
+		<category><![CDATA[java features]]></category>
+		<category><![CDATA[java free demo]]></category>
+		<category><![CDATA[java install]]></category>
+		<category><![CDATA[java jdk]]></category>
+		<category><![CDATA[java training videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2718</guid>
+		<description><![CDATA[Software market has grown rapidly and millions of individuals are involved in this which includes professionals, s/w learners, and students. These all are major contributors in the IT industry.The young..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/java-vs-dot-net-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learn Dot NET Online and Create Improved Web Application</title>
+		<link>https://bigclasses.com/blog/learn-dot-net-online-and-create-improved-web-application</link>
+		<comments>https://bigclasses.com/blog/learn-dot-net-online-and-create-improved-web-application#respond</comments>
+		<pubDate>Mon, 25 Nov 2013 15:13:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2665</guid>
+		<description><![CDATA[Dot NET Framework is a software framework that runs mainly on Microsoft Windows and it is introduced by Microsoft.Dot NET comprises of a large library and it also offers language..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/learn-dot-net-online-and-create-improved-web-application/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Visual Basic .NET  Training</title>
+		<link>https://bigclasses.com/blog/visual-basic-dot-net-training</link>
+		<comments>https://bigclasses.com/blog/visual-basic-dot-net-training#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 09:40:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[virtual basic .net online training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2555</guid>
+		<description><![CDATA[The full form of VB.NET is Visual Basic .NET It is object oriented programming language. It is the evolution of classic VB, which is implemented in .NET framework. There are two..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/visual-basic-dot-net-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dot Net Introduction and Features</title>
+		<link>https://bigclasses.com/blog/dot-net-introduction-and-features</link>
+		<comments>https://bigclasses.com/blog/dot-net-introduction-and-features#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 08:46:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2545</guid>
+		<description><![CDATA[What is .NET? The DOT NET is a software framework. It is developed by Microsoft. It includes a large library and also provides language inter-operability across some programming languages. Language inter-operability refers the capability of two different..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/dot-net-introduction-and-features/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microsoft Dot Net Online Training</title>
+		<link>https://bigclasses.com/blog/microsoft-dot-net-online-training</link>
+		<comments>https://bigclasses.com/blog/microsoft-dot-net-online-training#respond</comments>
+		<pubDate>Thu, 25 Apr 2013 09:38:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[.NET Online Training]]></category>
+		<category><![CDATA[dot net online training]]></category>
+		<category><![CDATA[Online .net Training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1766</guid>
+		<description><![CDATA[In the year 2000, Microsoft announced a whole new software development framework for Windows called .NET in the Professional Developer Conference (PDC). After initial testing and feedback Beta 1 of..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microsoft-dot-net-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>.NET Online Training</title>
+		<link>https://bigclasses.com/blog/net-online-training-5</link>
+		<comments>https://bigclasses.com/blog/net-online-training-5#respond</comments>
+		<pubDate>Sat, 20 Apr 2013 09:05:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1715</guid>
+		<description><![CDATA[Microsoft developed the .NET FrameWork , which runs predominantly on Microsoft windows. .NET Course Shares the knowledge of executing the programs for .NET FrameWork in a software environment known as common language run time..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/net-online-training-5/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microsoft .Net Online training</title>
+		<link>https://bigclasses.com/blog/microsoft-net-online-training</link>
+		<comments>https://bigclasses.com/blog/microsoft-net-online-training#respond</comments>
+		<pubDate>Thu, 14 Mar 2013 10:13:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[.net application]]></category>
+		<category><![CDATA[.NET Framework]]></category>
+		<category><![CDATA[clr]]></category>
+		<category><![CDATA[cls]]></category>
+		<category><![CDATA[common language runtime]]></category>
+		<category><![CDATA[common language specification]]></category>
+		<category><![CDATA[jit]]></category>
+		<category><![CDATA[just in time]]></category>
+		<category><![CDATA[system requirements]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1197</guid>
+		<description><![CDATA[MS .Net Online Training: List the major elements of the .NET Framework and explain how they fit into the .NET platform. Learn all the features of VS.NET IDE. Explain the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microsoft-net-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dot Net Online Training</title>
+		<link>https://bigclasses.com/blog/dot-net-online-training</link>
+		<comments>https://bigclasses.com/blog/dot-net-online-training#respond</comments>
+		<pubDate>Fri, 01 Mar 2013 14:20:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1126</guid>
+		<description><![CDATA[Contrary to general belief .NET is not a single technology. Rather it is a set of technologies that work together seamlessly to solve your business problems. The following sections will give you..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/dot-net-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DOT Net Online Training</title>
+		<link>https://bigclasses.com/blog/net-online-training-4</link>
+		<comments>https://bigclasses.com/blog/net-online-training-4#respond</comments>
+		<pubDate>Fri, 01 Mar 2013 08:58:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[DWH]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1127</guid>
+		<description><![CDATA[Contrary to general belief DOT NET is not a single technology. Rather it is a set of technologies that work together seamlessly to solve your business problems. The following sections will give..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/net-online-training-4/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MicroSoft Dot Net Online Training</title>
+		<link>https://bigclasses.com/blog/microsoft-dot-net-online-training-framework</link>
+		<comments>https://bigclasses.com/blog/microsoft-dot-net-online-training-framework#respond</comments>
+		<pubDate>Thu, 10 Jan 2013 13:33:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=561</guid>
+		<description><![CDATA[.Net Framework is a platform or development environment to seamlessly produce web-applications that are accessible through client machines from across the world. These web-applications adopt open standards like extensible mark-up..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microsoft-dot-net-online-training-framework/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

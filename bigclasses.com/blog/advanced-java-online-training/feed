@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Advanced Java &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/advanced-java-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Advanced Java &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CORE and ADVANCED JAVA Topics</title>
+		<link>https://bigclasses.com/blog/core-and-advanced-java-topics</link>
+		<comments>https://bigclasses.com/blog/core-and-advanced-java-topics#respond</comments>
+		<pubDate>Fri, 13 Nov 2015 13:56:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced Java]]></category>
+		<category><![CDATA[Core Java]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4296</guid>
+		<description><![CDATA[CORE JAVA 500 Batches completed. 2 Lakhs People Trained. Job Oriented In-Depth Training. Real Time And Real Life Scenarios. Topics Collections Frame Works. Multi-threading. Exceptions. OOPS. JVM Architecture Diagram. To..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/core-and-advanced-java-topics/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Java vs.Dot Net Online Training</title>
+		<link>https://bigclasses.com/blog/java-vs-dot-net-online-training</link>
+		<comments>https://bigclasses.com/blog/java-vs-dot-net-online-training#respond</comments>
+		<pubDate>Mon, 02 Dec 2013 13:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced Java]]></category>
+		<category><![CDATA[DOT Net]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[asp.net ajax]]></category>
+		<category><![CDATA[asp.net javascript]]></category>
+		<category><![CDATA[asp.net list box]]></category>
+		<category><![CDATA[asp.net mvc]]></category>
+		<category><![CDATA[asp.net namespace]]></category>
+		<category><![CDATA[asp.net online training]]></category>
+		<category><![CDATA[java applications]]></category>
+		<category><![CDATA[java basics]]></category>
+		<category><![CDATA[java collections]]></category>
+		<category><![CDATA[java features]]></category>
+		<category><![CDATA[java free demo]]></category>
+		<category><![CDATA[java install]]></category>
+		<category><![CDATA[java jdk]]></category>
+		<category><![CDATA[java training videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2718</guid>
+		<description><![CDATA[Software market has grown rapidly and millions of individuals are involved in this which includes professionals, s/w learners, and students. These all are major contributors in the IT industry.The young..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/java-vs-dot-net-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WHAT IS CORE JAVA AND ADVANCED JAVA?</title>
+		<link>https://bigclasses.com/blog/what-is-core-java-and-advanced-java</link>
+		<comments>https://bigclasses.com/blog/what-is-core-java-and-advanced-java#respond</comments>
+		<pubDate>Mon, 20 May 2013 08:57:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced Java]]></category>
+		<category><![CDATA[Core Java]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[CORE JAVA]]></category>
+		<category><![CDATA[CORE JAVA DEMO]]></category>
+		<category><![CDATA[core java online training]]></category>
+		<category><![CDATA[core java training]]></category>
+		<category><![CDATA[CORE JAVA TUTORIAL]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2181</guid>
+		<description><![CDATA[Firstly, there is no such concept like core java and advanced java. It is mainly created by the coaching centers to make their terminology easier. Java mainly consists of three..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/what-is-core-java-and-advanced-java/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

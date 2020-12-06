@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business Analyst &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/business-analyst-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Business Analyst &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Importance of Business Analysis</title>
+		<link>https://bigclasses.com/blog/importance-business-analysis</link>
+		<comments>https://bigclasses.com/blog/importance-business-analysis#respond</comments>
+		<pubDate>Mon, 05 Feb 2018 13:56:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Analyst]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5800</guid>
+		<description><![CDATA[Thinking to be a Business Analyst? Would you like to know the importance of Business Analysis in a business? Understand the true meaning of Business Analysis and how they help..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/importance-business-analysis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simplify Your Critical Business Structure through Business Analyst Training</title>
+		<link>https://bigclasses.com/blog/simplify-your-critical-business-structure-through-business-analyst-training</link>
+		<comments>https://bigclasses.com/blog/simplify-your-critical-business-structure-through-business-analyst-training#respond</comments>
+		<pubDate>Wed, 27 Nov 2013 14:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Business Analyst]]></category>
+		<category><![CDATA[Business Analyst course]]></category>
+		<category><![CDATA[Business Analyst free demo]]></category>
+		<category><![CDATA[Business Analyst online training]]></category>
+		<category><![CDATA[Business Analyst training]]></category>
+		<category><![CDATA[Business Analyst tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2686</guid>
+		<description><![CDATA[There is a great demand of strong>Business Analyst in any enterprise because you can consider a Business Analyst as an agent of change. BigClasses’s Business Analyst online training will let..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/simplify-your-critical-business-structure-through-business-analyst-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction to Business Analysis</title>
+		<link>https://bigclasses.com/blog/introduction-to-business-analysis</link>
+		<comments>https://bigclasses.com/blog/introduction-to-business-analysis#respond</comments>
+		<pubDate>Mon, 06 May 2013 08:23:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Business Analyst]]></category>
+		<category><![CDATA[Business Analyst course]]></category>
+		<category><![CDATA[Business Analyst free demo]]></category>
+		<category><![CDATA[Business Analyst online training]]></category>
+		<category><![CDATA[Business Analyst training]]></category>
+		<category><![CDATA[Business Analyst tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1842</guid>
+		<description><![CDATA[What is this course about? In this course, the role of the &#8220;business analyst&#8221; is outlined as a mediator managing the interests and wishes of each the business/project management and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/introduction-to-business-analysis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is Business Analysis</title>
+		<link>https://bigclasses.com/blog/what-is-business-analysis</link>
+		<comments>https://bigclasses.com/blog/what-is-business-analysis#respond</comments>
+		<pubDate>Tue, 11 Dec 2012 13:28:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Business Analyst]]></category>
+		<category><![CDATA[Business Analyst course]]></category>
+		<category><![CDATA[Business Analyst free demo]]></category>
+		<category><![CDATA[Business Analyst online training]]></category>
+		<category><![CDATA[Business Analyst training]]></category>
+		<category><![CDATA[Business Analyst tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=246</guid>
+		<description><![CDATA[Business Analysis is an occupation that promises to offer for the alignment of organizations business objective with the possibilities offered by to Information Technology (IT) for the purpose of improving business process...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/what-is-business-analysis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

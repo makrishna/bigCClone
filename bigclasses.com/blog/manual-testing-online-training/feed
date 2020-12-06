@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manual Testing &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/manual-testing-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Manual Testing &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Don’t Suffer with a Faulty Application, Make It Error Free</title>
+		<link>https://bigclasses.com/blog/dont-suffer-with-a-faulty-application-make-it-error-free</link>
+		<comments>https://bigclasses.com/blog/dont-suffer-with-a-faulty-application-make-it-error-free#respond</comments>
+		<pubDate>Wed, 27 Nov 2013 14:42:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Manual Testing]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[Manual Testing course]]></category>
+		<category><![CDATA[Manual Testing demo]]></category>
+		<category><![CDATA[Manual Testing online Training]]></category>
+		<category><![CDATA[manual testing training]]></category>
+		<category><![CDATA[Manual Testing tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2683</guid>
+		<description><![CDATA[Manual Testing Online TrainingOverview The Manual testing training program is planned to give the learners proper skills and knowledge to increase a competitive advantage in starting a career in software..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/dont-suffer-with-a-faulty-application-make-it-error-free/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

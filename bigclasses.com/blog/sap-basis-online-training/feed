@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP BASIS &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-basis-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP BASIS &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SAP BASIS Training – Introducing SAP Web Dispatcher</title>
+		<link>https://bigclasses.com/blog/sap-basis-training-introducing-sap-web-dispatcher</link>
+		<comments>https://bigclasses.com/blog/sap-basis-training-introducing-sap-web-dispatcher#respond</comments>
+		<pubDate>Wed, 11 Dec 2013 13:21:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BASIS]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2769</guid>
+		<description><![CDATA[There is a huge demand of SAP BASIS course across the world. BigClasses provides excellent SAP BASIS online training with interactive online sessions. Our SAP BASIS training will teach every..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-basis-training-introducing-sap-web-dispatcher/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Basis Online Training @BigClasses</title>
+		<link>https://bigclasses.com/blog/sap-basis-online-training-bigclasses</link>
+		<comments>https://bigclasses.com/blog/sap-basis-online-training-bigclasses#respond</comments>
+		<pubDate>Fri, 06 Dec 2013 14:03:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BASIS]]></category>
+		<category><![CDATA[sap basis]]></category>
+		<category><![CDATA[SAP BASIS course]]></category>
+		<category><![CDATA[SAP Basis Online training]]></category>
+		<category><![CDATA[sap basis training]]></category>
+		<category><![CDATA[SAP BASIS tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2740</guid>
+		<description><![CDATA[The SAP Basis training is converged under various classifications. In the beginning of the training, the learner gets familiarized with the core concepts of the BASIS module. During this, the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-basis-online-training-bigclasses/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learn at home–Enroll Your Name for SAP BASIS Online Training</title>
+		<link>https://bigclasses.com/blog/learn-at-home-enroll-your-name-for-sap-basis-online-training</link>
+		<comments>https://bigclasses.com/blog/learn-at-home-enroll-your-name-for-sap-basis-online-training#respond</comments>
+		<pubDate>Wed, 20 Nov 2013 14:34:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BASIS]]></category>
+		<category><![CDATA[sap basis]]></category>
+		<category><![CDATA[SAP BASIS course]]></category>
+		<category><![CDATA[sap basis demo]]></category>
+		<category><![CDATA[SAP Basis Online training]]></category>
+		<category><![CDATA[sap basis training]]></category>
+		<category><![CDATA[SAP BASIS tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2645</guid>
+		<description><![CDATA[BigClasses is the only IT online training organization which provides SAP BASIS online training in a very low course fee. BigClasses is located in Hyderabad, India. We provide SAP BASIS..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/learn-at-home-enroll-your-name-for-sap-basis-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BASIS TRAINING</title>
+		<link>https://bigclasses.com/blog/sap-basis-training</link>
+		<comments>https://bigclasses.com/blog/sap-basis-training#respond</comments>
+		<pubDate>Tue, 21 May 2013 08:08:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BASIS]]></category>
+		<category><![CDATA[sap basis]]></category>
+		<category><![CDATA[sap basis demo]]></category>
+		<category><![CDATA[SAP Basis Online training]]></category>
+		<category><![CDATA[sap basis training]]></category>
+		<category><![CDATA[SAP BASIS tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2184</guid>
+		<description><![CDATA[SAP Basis is a set of middleware programs and tools which offer the underlying base that alters applications to be practical across operative systems. SAP Basis training includes an RDBMS, GUI, and client-server architecture...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-basis-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Basis Online Training</title>
+		<link>https://bigclasses.com/blog/sap-basis-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-basis-online-training#respond</comments>
+		<pubDate>Wed, 17 Apr 2013 09:19:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BASIS]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1630</guid>
+		<description><![CDATA[SAP Basis is a set of middleware programs and tools which offer the underlying base that alter applications to be practical across operative systems. SAP Basis training includes a real..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-basis-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

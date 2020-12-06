@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OBIEE &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/obiee-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>OBIEE &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get Improved, BI Skills with OBIEE Online Training</title>
+		<link>https://bigclasses.com/blog/get-improved-bi-skills-with-obiee-online-training</link>
+		<comments>https://bigclasses.com/blog/get-improved-bi-skills-with-obiee-online-training#respond</comments>
+		<pubDate>Sat, 16 Nov 2013 11:08:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+		<category><![CDATA[OBIEE online training]]></category>
+		<category><![CDATA[obiee training]]></category>
+		<category><![CDATA[obiee tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2607</guid>
+		<description><![CDATA[OBIEE is defined as Oracle Business Intelligence Enterprise Edition, which is a comprehensive Business Intelligence (BI) platform. OBIEE training is required for any organization to provide business intelligence and to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/get-improved-bi-skills-with-obiee-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basic concepts of OBIEE Online Training</title>
+		<link>https://bigclasses.com/blog/basic-concepts-of-obiee-online-training</link>
+		<comments>https://bigclasses.com/blog/basic-concepts-of-obiee-online-training#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 10:42:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+		<category><![CDATA[obiee]]></category>
+		<category><![CDATA[OBIEE online training]]></category>
+		<category><![CDATA[obiee tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2502</guid>
+		<description><![CDATA[What is OBIEE? OBIEE stands for Oracle Business Intelligence Enterprise Edition, which is introduced by Oracle Corporation. Mainly it is a set of business intelligence tools. Oracle Business Intelligence Enterprise..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/basic-concepts-of-obiee-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Obiee online training</title>
+		<link>https://bigclasses.com/blog/obiee-online-training-3</link>
+		<comments>https://bigclasses.com/blog/obiee-online-training-3#respond</comments>
+		<pubDate>Fri, 03 May 2013 13:57:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+		<category><![CDATA[OBIEE course]]></category>
+		<category><![CDATA[OBIEE online training]]></category>
+		<category><![CDATA[obiee training]]></category>
+		<category><![CDATA[obiee tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1821</guid>
+		<description><![CDATA[Oracle Business Intelligence Enterprise Edition (OBIEE) is a comprehensive business intelligence platform that delivers a full vary of analytic and reporting capabilities. The Project Analytics Module sources raw Project information..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/obiee-online-training-3/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Oracle BI Online Training</title>
+		<link>https://bigclasses.com/blog/oracle-bi-online-training</link>
+		<comments>https://bigclasses.com/blog/oracle-bi-online-training#respond</comments>
+		<pubDate>Mon, 08 Apr 2013 12:42:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+		<category><![CDATA[OBIEE BI]]></category>
+		<category><![CDATA[OBIEE online training]]></category>
+		<category><![CDATA[obiee training]]></category>
+		<category><![CDATA[obiee tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1498</guid>
+		<description><![CDATA[Are you hoping to learn, you have arrived at the right place. In this Oracle BI online training tutorial blog, you will learn essential to Oracle BI concepts in very simple way...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/oracle-bi-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OBIEE 11g Online Training</title>
+		<link>https://bigclasses.com/blog/obiee-11g-online-training</link>
+		<comments>https://bigclasses.com/blog/obiee-11g-online-training#respond</comments>
+		<pubDate>Sat, 16 Mar 2013 08:22:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+		<category><![CDATA[dac information server]]></category>
+		<category><![CDATA[obiee]]></category>
+		<category><![CDATA[obiee administraion tool]]></category>
+		<category><![CDATA[obiee presentation services]]></category>
+		<category><![CDATA[obiee server]]></category>
+		<category><![CDATA[obiee training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1249</guid>
+		<description><![CDATA[This course is designed for those professionals who are looking for Great career as Consultant in BI Technology. This course provides a solid foundation on OBIEE 11g. Participants will learn..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/obiee-11g-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OBIEE Online Training</title>
+		<link>https://bigclasses.com/blog/obiee-online-training</link>
+		<comments>https://bigclasses.com/blog/obiee-online-training#respond</comments>
+		<pubDate>Fri, 11 Jan 2013 10:49:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=575</guid>
+		<description><![CDATA[Oracle Business Intelligence Enterprise Edition (OBIEE) is a comprehensive business intelligence platform that delivers a full vary of analytic and reporting capabilities. The Project Analytics Module sources raw Project information..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/obiee-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scope of OBIEE</title>
+		<link>https://bigclasses.com/blog/scope-of-obiee</link>
+		<comments>https://bigclasses.com/blog/scope-of-obiee#respond</comments>
+		<pubDate>Tue, 27 Nov 2012 11:43:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[OBIEE]]></category>
+		<category><![CDATA[obiee 11g]]></category>
+		<category><![CDATA[OBIEE 11g online training]]></category>
+		<category><![CDATA[obiee 11g training]]></category>
+		<category><![CDATA[OBIEE 11g tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=135</guid>
+		<description><![CDATA[The scope of the OBIEE Course: Oracle Business Intelligence Enterprise Edition 11g, the new, industry-leading technology platform for business intelligence, which offers: The Next Generation of Answers (Answers+) Multidimensional, OLAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/scope-of-obiee/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

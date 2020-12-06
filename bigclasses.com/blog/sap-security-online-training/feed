@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP Security &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-security-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP Security &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SAP Security Online Training</title>
+		<link>https://bigclasses.com/blog/sap-security-online-training-2</link>
+		<comments>https://bigclasses.com/blog/sap-security-online-training-2#respond</comments>
+		<pubDate>Wed, 17 Apr 2013 12:18:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP Security]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1633</guid>
+		<description><![CDATA[SAP Security is one in every of the vital aspects in trendy business. The one foremost responsibility in any business is security of knowledge – client information, Purchase information, Clinical-trails..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-security-online-training-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Securities online training</title>
+		<link>https://bigclasses.com/blog/sap-securities-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-securities-online-training#respond</comments>
+		<pubDate>Sat, 16 Feb 2013 15:03:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP Security]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=929</guid>
+		<description><![CDATA[Course Content 1              SAP 1.1          Overview on ERP 1.2          Different ERPs 1.3          Benefits of SAP 2              PROJECT IMPLEMENTATION       2.1          Overview on Project Implementation 2.2          Responsibilities as a Consultant 3              SAP..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-securities-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Security Online Training</title>
+		<link>https://bigclasses.com/blog/sap-security-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-security-online-training#respond</comments>
+		<pubDate>Wed, 30 Jan 2013 11:46:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP Security]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=773</guid>
+		<description><![CDATA[Why is SAP security so Important? SAP Security is the door way to SAP system SAP Security is the way of protecting from unauthorised usage. It can unlock the flexibility and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-security-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Security Online Training</title>
+		<link>https://bigclasses.com/blog/sap-security-training-online</link>
+		<comments>https://bigclasses.com/blog/sap-security-training-online#respond</comments>
+		<pubDate>Sat, 22 Dec 2012 12:50:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP Security]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=391</guid>
+		<description><![CDATA[Overview of Security: Security is one of the important aspects in modern business. The one foremost responsibility in any business is security of information &#8211; Customer Data, Purchase Data, Clinical-trails..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-security-training-online/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

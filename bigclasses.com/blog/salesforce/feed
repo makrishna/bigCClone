@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Salesforce &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/salesforce/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Salesforce &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why Choose Salesforce</title>
+		<link>https://bigclasses.com/blog/why-choose-salesforce</link>
+		<comments>https://bigclasses.com/blog/why-choose-salesforce#respond</comments>
+		<pubDate>Sat, 28 Sep 2019 06:12:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[salesforce]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=8178</guid>
+		<description><![CDATA[What is Salesforce? Salesforce is a cloud-based CRM software that helps businesses to streamline all of the scattered businesses and to help them flourish in a more organized manner. It..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/why-choose-salesforce/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Who Should Study Salesforce?</title>
+		<link>https://bigclasses.com/blog/who-should-study-salesforce</link>
+		<comments>https://bigclasses.com/blog/who-should-study-salesforce#respond</comments>
+		<pubDate>Sat, 28 Sep 2019 05:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<category><![CDATA[salesforce online training]]></category>
+		<category><![CDATA[salesforce training online]]></category>
+		<category><![CDATA[who should study salesforce]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=8168</guid>
+		<description><![CDATA[Who Should Study Salesforce Running a business of any size is not easy as it calls for an investment of money and more importantly time for the business to grow..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/who-should-study-salesforce/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How Can both Salesforce Administrators and Developers Can Help The Companies?</title>
+		<link>https://bigclasses.com/blog/can-salesforce-administrators-developers-can-help-companies</link>
+		<comments>https://bigclasses.com/blog/can-salesforce-administrators-developers-can-help-companies#respond</comments>
+		<pubDate>Thu, 28 Dec 2017 13:16:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Salesforce]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5498</guid>
+		<description><![CDATA[Salesforce is advanced and highly demanded cloud-based software founded in February 1999. Since then it has become the top most Customer Relation Management (CRM) platform. The best part of the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/can-salesforce-administrators-developers-can-help-companies/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Do Companies Trust SALESFORCE CRM?</title>
+		<link>https://bigclasses.com/blog/companies-trust-salesforce</link>
+		<comments>https://bigclasses.com/blog/companies-trust-salesforce#respond</comments>
+		<pubDate>Wed, 27 Dec 2017 09:24:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Salesforce]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5407</guid>
+		<description><![CDATA[Companies all over the world have one common goal “To run the company successfully”. This goal is, quite difficult due to the on-going competition in the market. The company grows..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/companies-trust-salesforce/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Do Companies Love Salesforce?</title>
+		<link>https://bigclasses.com/blog/companies-love-salesforce</link>
+		<comments>https://bigclasses.com/blog/companies-love-salesforce#respond</comments>
+		<pubDate>Wed, 27 Dec 2017 09:18:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Salesforce]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5403</guid>
+		<description><![CDATA[Have you ever wondered about how companies successfully manage their customers and provide the best services to them? Companies always maintained an excellent report system for their customers, and maintain..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/companies-love-salesforce/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

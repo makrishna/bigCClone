@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Oracle Training &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/oracle-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Oracle Training &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brief Introduction of Tablespace in Oracle 11g</title>
+		<link>https://bigclasses.com/blog/brief-introduction-of-tablespace-in-oracle-11g</link>
+		<comments>https://bigclasses.com/blog/brief-introduction-of-tablespace-in-oracle-11g#respond</comments>
+		<pubDate>Tue, 10 Dec 2013 13:42:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle Training]]></category>
+		<category><![CDATA[Oracle DBA course]]></category>
+		<category><![CDATA[Oracle DBA demo]]></category>
+		<category><![CDATA[oracle dba interview questions]]></category>
+		<category><![CDATA[oracle dba online course]]></category>
+		<category><![CDATA[oracle dba online training]]></category>
+		<category><![CDATA[Oracle DBA training]]></category>
+		<category><![CDATA[oracle dba tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2764</guid>
+		<description><![CDATA[Before creating a tablespace, you should create a database to contain it. The primary tablespace in any database is SYSTEM tablespace. It contains basic information to the functioning of the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/brief-introduction-of-tablespace-in-oracle-11g/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Oracle 11g DBA Online Training</title>
+		<link>https://bigclasses.com/blog/oracle-11g-dba-online-training</link>
+		<comments>https://bigclasses.com/blog/oracle-11g-dba-online-training#respond</comments>
+		<pubDate>Mon, 03 Dec 2012 14:16:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle DBA]]></category>
+		<category><![CDATA[Oracle Training]]></category>
+		<category><![CDATA[Oracle 11g]]></category>
+		<category><![CDATA[Oracle 11g course]]></category>
+		<category><![CDATA[oracle 11g dba training]]></category>
+		<category><![CDATA[Oracle 11g free demo]]></category>
+		<category><![CDATA[oracle 11g online training]]></category>
+		<category><![CDATA[Oracle 11g tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=184</guid>
+		<description><![CDATA[An Oracle database is a collection of information handled just like a device. The function of a database is usually to store and find related detail. A database host is..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/oracle-11g-dba-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

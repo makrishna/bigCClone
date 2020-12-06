@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Other &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/other/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>Other &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Top Reasons to Learn Python</title>
+		<link>https://bigclasses.com/blog/top-reasons-learn-python</link>
+		<comments>https://bigclasses.com/blog/top-reasons-learn-python#respond</comments>
+		<pubDate>Mon, 05 Feb 2018 08:45:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5785</guid>
+		<description><![CDATA[If you want to get Paid High in the Programming world, which language to choose? If you want to get Paid High in an MNC, always choose Python! So, basically,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/top-reasons-learn-python/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Right Time For You To Learn The Essentials Of Hadoop</title>
+		<link>https://bigclasses.com/blog/right-time-learn-essentials-hadoop</link>
+		<comments>https://bigclasses.com/blog/right-time-learn-essentials-hadoop#respond</comments>
+		<pubDate>Thu, 21 Apr 2016 14:01:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4335</guid>
+		<description><![CDATA[With the growing importance of Hadoop, it is just the right time to add this skill to your resume. If you want to bag a better job, wait no further..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/right-time-learn-essentials-hadoop/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hadoop overview and its EcoSystem</title>
+		<link>https://bigclasses.com/blog/hadoop-overview-and-its-ecosystem</link>
+		<comments>https://bigclasses.com/blog/hadoop-overview-and-its-ecosystem#respond</comments>
+		<pubDate>Fri, 09 Oct 2015 14:51:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[Other]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4269</guid>
+		<description><![CDATA[Hadoop overview and its EcoSystem Hadoop is an open source implementation of the Map-Reduce Platform and distributed file system, written in Java. Hadoop is actually a collection of tools, and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/hadoop-overview-and-its-ecosystem/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why is Tableau worth learning?</title>
+		<link>https://bigclasses.com/blog/why-is-tableau-worth-learning</link>
+		<comments>https://bigclasses.com/blog/why-is-tableau-worth-learning#respond</comments>
+		<pubDate>Sat, 19 Sep 2015 09:16:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[Tableau]]></category>
+		<category><![CDATA[Tableau course]]></category>
+		<category><![CDATA[Tableau online training]]></category>
+		<category><![CDATA[Tableau training]]></category>
+		<category><![CDATA[Why is Tableau worth learning]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3927</guid>
+		<description><![CDATA[Tableau is a top online reporting and dashboard tool which helps in viewing and interpreting the data. It can generate fascinating visuals of performance metrics, staff productivity, client demos and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/why-is-tableau-worth-learning/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Jobs Trends and Salary Trends in 2014</title>
+		<link>https://bigclasses.com/blog/sap-jobs-trends-and-salary-trends-in-2014</link>
+		<comments>https://bigclasses.com/blog/sap-jobs-trends-and-salary-trends-in-2014#respond</comments>
+		<pubDate>Sat, 11 Oct 2014 13:48:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3623</guid>
+		<description><![CDATA[BigClasses.com, the best online IT training providers of the world has done a little research on the past, present and future SAP trends, we have found some of the imperative..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-jobs-trends-and-salary-trends-in-2014/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hadoop career scope and forecast in USA and India</title>
+		<link>https://bigclasses.com/blog/hadoop-career-scope</link>
+		<comments>https://bigclasses.com/blog/hadoop-career-scope#respond</comments>
+		<pubDate>Thu, 11 Sep 2014 15:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[hadoop]]></category>
+		<category><![CDATA[hadoop course]]></category>
+		<category><![CDATA[hadoop free demo]]></category>
+		<category><![CDATA[HADOOP online training]]></category>
+		<category><![CDATA[HADOOP training]]></category>
+		<category><![CDATA[hadoop tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3617</guid>
+		<description><![CDATA[IT companies of India and USA will need 2.5 Million more IT professionals by 2015, as acknowledged by the market leaders and analysts. Big Data and Hadoop expertise could mean..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/hadoop-career-scope/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Some Basic Concepts of SAP Web Dynpro</title>
+		<link>https://bigclasses.com/blog/concepts-of-sap-web-dynpro</link>
+		<comments>https://bigclasses.com/blog/concepts-of-sap-web-dynpro#respond</comments>
+		<pubDate>Wed, 10 Sep 2014 15:17:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3613</guid>
+		<description><![CDATA[Web Dynpro is a prominent modeling environment which stores the user-interface details in the form of metadata. We can write down not as much of code and fix bugs in..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/concepts-of-sap-web-dynpro/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>QlikView Keyboard Shortcut and Hot Keys</title>
+		<link>https://bigclasses.com/blog/qlikview-shortcut-keys</link>
+		<comments>https://bigclasses.com/blog/qlikview-shortcut-keys#respond</comments>
+		<pubDate>Tue, 09 Sep 2014 15:09:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[qlikview]]></category>
+		<category><![CDATA[Qlikview Course]]></category>
+		<category><![CDATA[QlikView free demo]]></category>
+		<category><![CDATA[qlikview online training]]></category>
+		<category><![CDATA[qlikview training]]></category>
+		<category><![CDATA[Qlikview Tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3611</guid>
+		<description><![CDATA[QlikView File Handling Shortcut Keys New Document Ctrl+N Open Document Ctrl+O Open Document on server Ctrl+Shift+N Save Document Ctrl+S Save Document as F12 QlikView Selection Shortcut Keys Open Current Selection..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/qlikview-shortcut-keys/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What’s New in SAP Business Objects Business Intelligence 4.2</title>
+		<link>https://bigclasses.com/blog/new-sap-bo-4-1</link>
+		<comments>https://bigclasses.com/blog/new-sap-bo-4-1#respond</comments>
+		<pubDate>Sat, 06 Sep 2014 14:58:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO free demo]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3607</guid>
+		<description><![CDATA[SAP BusinessObjects Business Intelligence 4.2 suite is a complete set of tools for transforming your data into functional information and bringing it to the users. The collection comprises tools for..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/new-sap-bo-4-1/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MicroStrategy Intelligence Servers on Web Server</title>
+		<link>https://bigclasses.com/blog/microstrategy-intelligence-servers</link>
+		<comments>https://bigclasses.com/blog/microstrategy-intelligence-servers#respond</comments>
+		<pubDate>Sat, 06 Sep 2014 14:37:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3602</guid>
+		<description><![CDATA[Adding a Server manually: Add a Server manually, this section allows adding an Intelligence Server to create a connection along with the name and IP address. While connecting, the user..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microstrategy-intelligence-servers/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

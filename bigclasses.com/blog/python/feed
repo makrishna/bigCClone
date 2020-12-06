@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>python &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/python/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>python &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Top Companies Using Python language</title>
+		<link>https://bigclasses.com/blog/top-companies-using-python</link>
+		<comments>https://bigclasses.com/blog/top-companies-using-python#respond</comments>
+		<pubDate>Sat, 24 Feb 2018 09:53:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=6853</guid>
+		<description><![CDATA[Do you know how many total programming languages are out there in the world? There are over 500 programming languages! The Majority of these languages overlap with each other and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/top-companies-using-python/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Python Developer Job Role, Responsibly, and Salary Trends</title>
+		<link>https://bigclasses.com/blog/python-developer-job-role-responsibly-salary-trends</link>
+		<comments>https://bigclasses.com/blog/python-developer-job-role-responsibly-salary-trends#respond</comments>
+		<pubDate>Thu, 22 Feb 2018 11:15:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=6826</guid>
+		<description><![CDATA[You must have heard that Python is a powerful and an advanced-level programming language in the world. It was created by Guido van Rossum and was launched officially in 1991...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/python-developer-job-role-responsibly-salary-trends/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Top Reasons to Learn Python</title>
+		<link>https://bigclasses.com/blog/top-reasons-learn-python</link>
+		<comments>https://bigclasses.com/blog/top-reasons-learn-python#respond</comments>
+		<pubDate>Mon, 05 Feb 2018 08:45:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">https://bigclasses.com/blog/?p=5785</guid>
+		<description><![CDATA[If you want to get Paid High in the Programming world, which language to choose? If you want to get Paid High in an MNC, always choose Python! So, basically,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/top-reasons-learn-python/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DWH &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/data-warehouse/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>DWH &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cognos Dashboard</title>
+		<link>https://bigclasses.com/blog/cognos-dashboard</link>
+		<comments>https://bigclasses.com/blog/cognos-dashboard#respond</comments>
+		<pubDate>Thu, 08 Oct 2015 07:39:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Cognos Dashboard]]></category>
+		<category><![CDATA[Concepts]]></category>
+		<category><![CDATA[IBM Cognos is useful for]]></category>
+		<category><![CDATA[Procedure for creating Dashboards in Cognos]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=4264</guid>
+		<description><![CDATA[Introduction to Cognos Dashboard A dashboard is a data visualization tool which displays the present status of metrics and the key performance indicators (KPIs). Dashboards combine and organize numbers, metrics..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-dashboard/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSAS Introduction</title>
+		<link>https://bigclasses.com/blog/ssas-introduction</link>
+		<comments>https://bigclasses.com/blog/ssas-introduction#respond</comments>
+		<pubDate>Wed, 30 Sep 2015 10:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[An overview of internal structure of SSAS]]></category>
+		<category><![CDATA[Client Architecture]]></category>
+		<category><![CDATA[Server Architecture]]></category>
+		<category><![CDATA[SQL Server DBA course]]></category>
+		<category><![CDATA[SQL Server DBA online training]]></category>
+		<category><![CDATA[SQL Server DBA Training]]></category>
+		<category><![CDATA[SQL Server DBA Tutorial]]></category>
+		<category><![CDATA[SSAS Introduction]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3986</guid>
+		<description><![CDATA[SSAS Introduction SSAS stands for an SQL Server 2008R2 Analysis Services. The Microsoft Business Intelligence (BI) suite provides quiet a powerful technology-“SQL Server Analysis Services (SSAS) to offer online Analytical..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssas-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSRS Architecture</title>
+		<link>https://bigclasses.com/blog/ssrs-architecture</link>
+		<comments>https://bigclasses.com/blog/ssrs-architecture#respond</comments>
+		<pubDate>Wed, 30 Sep 2015 09:33:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[MSBI SSRS Online Training]]></category>
+		<category><![CDATA[MSBI SSRS Training]]></category>
+		<category><![CDATA[MSBI SSRS tutorial]]></category>
+		<category><![CDATA[SSRS Architecture]]></category>
+		<category><![CDATA[The Reporting Services Architecture]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3980</guid>
+		<description><![CDATA[SSRS Architecture SQL server reporting service is a complete and extensible reporting platform that contains an integrated set of programmatic interfaces, processing components and tools. The basis of the multilayered..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssrs-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSIS Architecture</title>
+		<link>https://bigclasses.com/blog/ssis-architecture</link>
+		<comments>https://bigclasses.com/blog/ssis-architecture#respond</comments>
+		<pubDate>Mon, 28 Sep 2015 07:50:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[MSBI SSIS Online Training]]></category>
+		<category><![CDATA[SQL Server Intergration Service]]></category>
+		<category><![CDATA[SSIS Architecture]]></category>
+		<category><![CDATA[SSIS Data Flow Engine/Pipeline]]></category>
+		<category><![CDATA[SSIS Runtime Engine]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3974</guid>
+		<description><![CDATA[SQL Server Intergration Service (SSIS) Architecture Introduction This is an ETL tool a product of  Microsoft. Integration services is a platform used in building high-performance data integration and workflow solutions,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssis-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction to MSBI</title>
+		<link>https://bigclasses.com/blog/introduction-to-msbi</link>
+		<comments>https://bigclasses.com/blog/introduction-to-msbi#respond</comments>
+		<pubDate>Sat, 26 Sep 2015 14:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[DBMS]]></category>
+		<category><![CDATA[Introduction to MSBI]]></category>
+		<category><![CDATA[msbi tools]]></category>
+		<category><![CDATA[sql server online training]]></category>
+		<category><![CDATA[sql server training]]></category>
+		<category><![CDATA[SSAS]]></category>
+		<category><![CDATA[SSIS]]></category>
+		<category><![CDATA[SSRS]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3966</guid>
+		<description><![CDATA[Introduction to MSBI : Definition:  MSBI stands for “MicroSoft Business Intelligence”. It is a set of tools and techniques, which provide the best solutions for Business Intelligence procedures. These tools make..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/introduction-to-msbi/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Architecture</title>
+		<link>https://bigclasses.com/blog/cognos-architecture</link>
+		<comments>https://bigclasses.com/blog/cognos-architecture#respond</comments>
+		<pubDate>Tue, 22 Sep 2015 08:28:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos architecture]]></category>
+		<category><![CDATA[cognos BI online training]]></category>
+		<category><![CDATA[COGNOS BI-TOOL]]></category>
+		<category><![CDATA[IBM Cognos Content Manager]]></category>
+		<category><![CDATA[IBM Cognos Dispatcher]]></category>
+		<category><![CDATA[IBM Cognos reporting Server]]></category>
+		<category><![CDATA[Tier I-Web Tier Cognos BI Gateway]]></category>
+		<category><![CDATA[Tier-II-Application Tier]]></category>
+		<category><![CDATA[Tier-III Data Tier Content Providers]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3939</guid>
+		<description><![CDATA[COGNOS BI TOOL : Cognos is a Business Intelligence (BI) solution created to encounter the challenges of enterprise-scale reporting, analyzing, scorecarding, and event notifying. Generally data is extracted from various sources..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Informatica 9.6.1 delivers Great Data for every Business</title>
+		<link>https://bigclasses.com/blog/informatica-9-6-delivers-great-data-for-every-business</link>
+		<comments>https://bigclasses.com/blog/informatica-9-6-delivers-great-data-for-every-business#respond</comments>
+		<pubDate>Tue, 27 May 2014 14:03:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[Informatica 9.6 Online Course]]></category>
+		<category><![CDATA[Informatica 9.6 Online Training]]></category>
+		<category><![CDATA[Informatica 9.6 Training]]></category>
+		<category><![CDATA[Informatica Online Training]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=3280</guid>
+		<description><![CDATA[Are you hoping to learn Informatica 9.6.1, you have arrived at the right place. In this Informatica tutorial blog, you will learn essential to  Informatica concepts in very simple way...]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/informatica-9-6-delivers-great-data-for-every-business/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learn the new SAP BO</title>
+		<link>https://bigclasses.com/blog/learn-the-new-sap-bo-4</link>
+		<comments>https://bigclasses.com/blog/learn-the-new-sap-bo-4#respond</comments>
+		<pubDate>Tue, 27 May 2014 12:47:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Objects]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BO]]></category>
+		<category><![CDATA[sap bo]]></category>
+		<category><![CDATA[SAP BO Architecture]]></category>
+		<category><![CDATA[SAP BO course]]></category>
+		<category><![CDATA[SAP BO online training]]></category>
+		<category><![CDATA[SAP BO training]]></category>
+		<category><![CDATA[SAP BO tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=3266</guid>
+		<description><![CDATA[BigClasses offers SAP BO online training with all its new features on a real-time basis by very experienced and leading consultant. Some of the new features mention below Web Intelligence..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/learn-the-new-sap-bo-4/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cognos Transformer for Online Analytical Processing</title>
+		<link>https://bigclasses.com/blog/cognos-transformer-for-online-analytical-processing</link>
+		<comments>https://bigclasses.com/blog/cognos-transformer-for-online-analytical-processing#respond</comments>
+		<pubDate>Sat, 15 Feb 2014 09:29:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cognos]]></category>
+		<category><![CDATA[DWH]]></category>
+		<category><![CDATA[cognos course]]></category>
+		<category><![CDATA[cognos online training]]></category>
+		<category><![CDATA[cognos training]]></category>
+		<category><![CDATA[Cognos Tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2815</guid>
+		<description><![CDATA[OLAP is a loom to promptly retort the multi-dimensional analytical queries. I urge you to see this cognos video tutorial that explains what is cognos and all that we have discussed in..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/cognos-transformer-for-online-analytical-processing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Database Testing and Data Warehouse Testing through ETL testing training</title>
+		<link>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training</link>
+		<comments>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training#respond</comments>
+		<pubDate>Thu, 13 Feb 2014 14:45:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[ETL Testing]]></category>
+		<category><![CDATA[Testing Tools]]></category>
+		<category><![CDATA[crud values]]></category>
+		<category><![CDATA[data destination]]></category>
+		<category><![CDATA[data transformation]]></category>
+		<category><![CDATA[database fields]]></category>
+		<category><![CDATA[database testing]]></category>
+		<category><![CDATA[datawarehousing testing]]></category>
+		<category><![CDATA[etl testing training]]></category>
+		<category><![CDATA[etl tool]]></category>
+		<category><![CDATA[extration of etl tool]]></category>
+		<category><![CDATA[object fields of etl]]></category>
+		<category><![CDATA[olap database]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2790</guid>
+		<description><![CDATA[There is an accepted misunderstanding that database and data warehouse testing is similar while the verity is that both hold different direction in testing. Database testing is done using a..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/database-testing-and-data-warehouse-testing-through-etl-testing-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,23 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	204=AITZcKM8oaCKGpTE2QR-TL_2x-jpN_xnOEa1DOPFAb-ncl4PmRu6BGm6S_RuTF9yzbO_FK6CGCIj9tfgJ5Qt4hLjnqo-L-xQPgpmxaFVnlY3MsOn33wIiXrHYizpVzXiFhWZEK_2R19mm3U5LCD37X0mlfDb5IzxFJAAobTOSZI
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0wOm3SdvhGA1xKlg2..BfzHGs...1.0.BfzHGs.
+.tawk.to	TRUE	/	FALSE	1999999999	__cfduid	da54e90422c697c170bc32aecb885e7031607234159
+embed.tawk.to	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hellobar.com	TRUE	/	FALSE	1999999999	__cfduid	db936e2c179fb1109e5a4521dd4ce0d091607235224
+my.hellobar.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.www.cloudflare.com	TRUE	/	FALSE	1999999999	__cf_bm	422622a8b70ee69c0c29b0b6a45231eb5ddee249-1607235754-1800-AcQECsbgpC09bmbxD72WgCPydiztd9+XIiYwHcIFwTr9DOSiE1oOmqU/BYS0GeHWZgMerrXV+0qb4RsFaqJxpWk=
+www.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	None
+salesiq.zoho.com	TRUE	/	FALSE	1999999999	663a60c55d	57281e68ac7482fbf596de6c47417074
+salesiq.zoho.com	TRUE	/	FALSE	1999999999	LS_CSRF_TOKEN	d0b88151-1166-49a4-853f-fc83d3420c24
+salesiq.zoho.com	TRUE	/	FALSE	1999999999	_zcsr_tmp	d0b88151-1166-49a4-853f-fc83d3420c24
+salesiq.zoho.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+salesiq.zoho.com	TRUE	/	FALSE	1999999999	priority	high
+.theme-fusion.com	TRUE	/	FALSE	1999999999	__cfduid	d366ba774f40061f46c823392453392651607242786
+avada.theme-fusion.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+bigclasses.com	TRUE	/	FALSE	1999999999	PHPSESSID	4c1ac1e2afc4ad29288db5d5c2ec567a
+bigclasses.com	TRUE	/	FALSE	1999999999	lz_userid	MzFkNTM3MDcxMQ%3D%3D
+bigclasses.com	TRUE	/	FALSE	1999999999	lz_visits	MQ%3D%3D
+bigclasses.com	TRUE	/	FALSE	1999999999	lz_last_visit	MTYwNzI0NTQyNA%3D%3D
+bigclasses.com	TRUE	/	FALSE	1999999999	livezilla	deleted
+

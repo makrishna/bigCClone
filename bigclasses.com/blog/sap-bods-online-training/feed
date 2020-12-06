@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SAP BODS &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/sap-bods-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>SAP BODS &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Try the New Learning Path with SAP BODS Online Training</title>
+		<link>https://bigclasses.com/blog/try-the-new-learning-path-with-sap-bods-online-training</link>
+		<comments>https://bigclasses.com/blog/try-the-new-learning-path-with-sap-bods-online-training#respond</comments>
+		<pubDate>Thu, 21 Nov 2013 14:53:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[sap bods course]]></category>
+		<category><![CDATA[SAP BODS demo]]></category>
+		<category><![CDATA[SAP BODS Online Training]]></category>
+		<category><![CDATA[SAP BODS Training]]></category>
+		<category><![CDATA[SAP BODS tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2653</guid>
+		<description><![CDATA[BigClasses offers SAP BODS online training to the learners with excellent online sessions and unique, standard SAP BODS tutorial. Our SAP BODS training is a time and money saving course..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/try-the-new-learning-path-with-sap-bods-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Overview of SAP BODS &#124; Features of SAP BODS</title>
+		<link>https://bigclasses.com/blog/overview-of-sap-bods-features-of-sap-bods</link>
+		<comments>https://bigclasses.com/blog/overview-of-sap-bods-features-of-sap-bods#respond</comments>
+		<pubDate>Fri, 04 Oct 2013 14:25:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2384</guid>
+		<description><![CDATA[SAP BODS (SAP Business Objects Data Services)allows one to extract and integrate data for analytical reporting and e-business. Features of SAP BODS : SAP BODS combines industry-leading data quality and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/overview-of-sap-bods-features-of-sap-bods/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BODS Online Training @ Hyderabad</title>
+		<link>https://bigclasses.com/blog/sap-bods-online-training-hyderabad</link>
+		<comments>https://bigclasses.com/blog/sap-bods-online-training-hyderabad#respond</comments>
+		<pubDate>Fri, 04 Oct 2013 13:54:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[sap bods course]]></category>
+		<category><![CDATA[SAP BODS demo]]></category>
+		<category><![CDATA[SAP BODS Online Training]]></category>
+		<category><![CDATA[SAP BODS Training]]></category>
+		<category><![CDATA[SAP BODS tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2374</guid>
+		<description><![CDATA[What is SAP BODS? SAP BODS stands for SAP Business Objects Data Services. SAP BODS delivers a single enterprise-class solution for data integration, data quality, data profiling, and text data..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-bods-online-training-hyderabad/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>BODS Online Training</title>
+		<link>https://bigclasses.com/blog/bods-online-training</link>
+		<comments>https://bigclasses.com/blog/bods-online-training#respond</comments>
+		<pubDate>Thu, 18 Apr 2013 10:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[BODS online training]]></category>
+		<category><![CDATA[BODS training]]></category>
+		<category><![CDATA[BODS tutorial]]></category>
+		<category><![CDATA[sap bods course]]></category>
+		<category><![CDATA[SAP BODS demo]]></category>
+		<category><![CDATA[sap bods videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1707</guid>
+		<description><![CDATA[Highlights of BODS/BODI training: You can create a single infrastructure for a group and real-time data movement to enable speed and lower cost implementation. Your business can manage data as..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/bods-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is SAP Business Objects Data Services?</title>
+		<link>https://bigclasses.com/blog/what-is-sap-business-objects-data-services</link>
+		<comments>https://bigclasses.com/blog/what-is-sap-business-objects-data-services#respond</comments>
+		<pubDate>Tue, 16 Apr 2013 09:08:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[SAP BODS demo]]></category>
+		<category><![CDATA[SAP BODS Online Training]]></category>
+		<category><![CDATA[SAP BODS Training]]></category>
+		<category><![CDATA[SAP BODS tutorial]]></category>
+		<category><![CDATA[sap bods videos]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1575</guid>
+		<description><![CDATA[ODSBODS overview: BODS is a software tool designed by Business Object (a company that got acquired by SAP in 2007) Some of the basic purpose of this tool is to..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/what-is-sap-business-objects-data-services/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BODS/Data Services/Data Integrator Online Training</title>
+		<link>https://bigclasses.com/blog/sap-bods-data-services-data-integrator-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-bods-data-services-data-integrator-online-training#respond</comments>
+		<pubDate>Thu, 21 Mar 2013 10:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[bods]]></category>
+		<category><![CDATA[BODS online training]]></category>
+		<category><![CDATA[BODS training]]></category>
+		<category><![CDATA[BODS tutorial]]></category>
+		<category><![CDATA[sap bods course]]></category>
+		<category><![CDATA[sap bods free demo]]></category>
+		<category><![CDATA[SAP BODS Online]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1273</guid>
+		<description><![CDATA[Overview: BODS (Business Objects data Services) is a graphical user interface space that enables to make jobs that extracts information from heterogeneous sources, transforms that information exploitation inbuilt transforms and..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-bods-data-services-data-integrator-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is BODS (BO data services) required when we have BW on HANA?</title>
+		<link>https://bigclasses.com/blog/is-bods-bo-data-services-required-when-we-have-bw-on-hana</link>
+		<comments>https://bigclasses.com/blog/is-bods-bo-data-services-required-when-we-have-bw-on-hana#respond</comments>
+		<pubDate>Thu, 14 Mar 2013 10:56:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[data services architecture]]></category>
+		<category><![CDATA[data services objects]]></category>
+		<category><![CDATA[Data Services Tools & its functions]]></category>
+		<category><![CDATA[data sservices tools]]></category>
+		<category><![CDATA[data warehouse]]></category>
+		<category><![CDATA[Data Warehousing]]></category>
+		<category><![CDATA[DTD]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[Formats-Flat file]]></category>
+		<category><![CDATA[Introduction to RAPID MARTS]]></category>
+		<category><![CDATA[SAP SLD & SMD Integration]]></category>
+		<category><![CDATA[User Management in CMC/IPS]]></category>
+		<category><![CDATA[Using Changed Data Capture]]></category>
+		<category><![CDATA[XSD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1200</guid>
+		<description><![CDATA[The current setup is, ERP BODS BW (Supported by Sql server DB).. , there have been several talks about implementing HANA, which I personally think is not required at this..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/is-bods-bo-data-services-required-when-we-have-bw-on-hana/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP Business Objects Data Services Online Training</title>
+		<link>https://bigclasses.com/blog/sap-business-objects-data-services-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-business-objects-data-services-online-training#respond</comments>
+		<pubDate>Wed, 13 Mar 2013 09:36:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[data services architecture]]></category>
+		<category><![CDATA[data services objects]]></category>
+		<category><![CDATA[Data Services Tools & its functions]]></category>
+		<category><![CDATA[data sservices tools]]></category>
+		<category><![CDATA[data warehouse]]></category>
+		<category><![CDATA[Data Warehousing]]></category>
+		<category><![CDATA[DTD]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[Formats-Flat file]]></category>
+		<category><![CDATA[Introduction to RAPID MARTS]]></category>
+		<category><![CDATA[SAP SLD & SMD Integration]]></category>
+		<category><![CDATA[User Management in CMC/IPS]]></category>
+		<category><![CDATA[Using Changed Data Capture]]></category>
+		<category><![CDATA[XSD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1186</guid>
+		<description><![CDATA[Benefits of SAP BODS: Use SAP Business Objects Data Services to develop enterprise data integration for batch and real-time uses. With the software: You can create a single infrastructure for..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-business-objects-data-services-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP HANA-BODS Online training</title>
+		<link>https://bigclasses.com/blog/sap-hana-bods-online-training</link>
+		<comments>https://bigclasses.com/blog/sap-hana-bods-online-training#respond</comments>
+		<pubDate>Wed, 20 Feb 2013 09:17:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[SAP HANA]]></category>
+		<category><![CDATA[sap hana bods]]></category>
+		<category><![CDATA[SAP HANA-BODS course]]></category>
+		<category><![CDATA[SAP HANA-BODS Online Training]]></category>
+		<category><![CDATA[SAP HANA-BODS Training]]></category>
+		<category><![CDATA[SAP HANA-BODS tutuorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=961</guid>
+		<description><![CDATA[SAP Business Objects Data Services XI Release 3 provides data integration and data quality processes in one run time environment, delivering enterprise performance and scalability. The data integration processes of SAP Business..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-hana-bods-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SAP BODS &#8212; Course Content</title>
+		<link>https://bigclasses.com/blog/sap-bods-course-content</link>
+		<comments>https://bigclasses.com/blog/sap-bods-course-content#respond</comments>
+		<pubDate>Mon, 04 Feb 2013 10:47:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[SAP]]></category>
+		<category><![CDATA[SAP BODS]]></category>
+		<category><![CDATA[data services architecture]]></category>
+		<category><![CDATA[data services objects]]></category>
+		<category><![CDATA[Data Services Tools & its functions]]></category>
+		<category><![CDATA[data sservices tools]]></category>
+		<category><![CDATA[data warehouse]]></category>
+		<category><![CDATA[Data Warehousing]]></category>
+		<category><![CDATA[DTD]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[Formats-Flat file]]></category>
+		<category><![CDATA[Introduction to RAPID MARTS]]></category>
+		<category><![CDATA[SAP SLD & SMD Integration]]></category>
+		<category><![CDATA[User Management in CMC/IPS]]></category>
+		<category><![CDATA[Using Changed Data Capture]]></category>
+		<category><![CDATA[XSD]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=810</guid>
+		<description><![CDATA[COURSE: SAP BODS/Data Services/Data Integrator Introduction Introduction to Integration Approaches What is ETL? What is Data Warehouse? Introduction to Data warehouse implementations SAP Business Objects Data Services Overview History of..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/sap-bods-course-content/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

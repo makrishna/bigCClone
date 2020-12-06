@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MSBI &#8211; BigClasses.com</title>
+	<atom:link href="https://bigclasses.com/blog/msbi-online-training/feed" rel="self" type="application/rss+xml" />
+	<link>https://bigclasses.com/blog</link>
+	<description>BigClasses News and Updates Spot</description>
+	<lastBuildDate>Tue, 04 Feb 2020 10:47:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
+
+<image>
+	<url>https://bigclasses.com/blog/wp-content/uploads/2015/09/cropped-jpg-logo-32x32.png</url>
+	<title>MSBI &#8211; BigClasses.com</title>
+	<link>https://bigclasses.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SSAS Introduction</title>
+		<link>https://bigclasses.com/blog/ssas-introduction</link>
+		<comments>https://bigclasses.com/blog/ssas-introduction#respond</comments>
+		<pubDate>Wed, 30 Sep 2015 10:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[An overview of internal structure of SSAS]]></category>
+		<category><![CDATA[Client Architecture]]></category>
+		<category><![CDATA[Server Architecture]]></category>
+		<category><![CDATA[SQL Server DBA course]]></category>
+		<category><![CDATA[SQL Server DBA online training]]></category>
+		<category><![CDATA[SQL Server DBA Training]]></category>
+		<category><![CDATA[SQL Server DBA Tutorial]]></category>
+		<category><![CDATA[SSAS Introduction]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3986</guid>
+		<description><![CDATA[SSAS Introduction SSAS stands for an SQL Server 2008R2 Analysis Services. The Microsoft Business Intelligence (BI) suite provides quiet a powerful technology-“SQL Server Analysis Services (SSAS) to offer online Analytical..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssas-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSRS Architecture</title>
+		<link>https://bigclasses.com/blog/ssrs-architecture</link>
+		<comments>https://bigclasses.com/blog/ssrs-architecture#respond</comments>
+		<pubDate>Wed, 30 Sep 2015 09:33:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[MSBI SSRS Online Training]]></category>
+		<category><![CDATA[MSBI SSRS Training]]></category>
+		<category><![CDATA[MSBI SSRS tutorial]]></category>
+		<category><![CDATA[SSRS Architecture]]></category>
+		<category><![CDATA[The Reporting Services Architecture]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3980</guid>
+		<description><![CDATA[SSRS Architecture SQL server reporting service is a complete and extensible reporting platform that contains an integrated set of programmatic interfaces, processing components and tools. The basis of the multilayered..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssrs-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SSIS Architecture</title>
+		<link>https://bigclasses.com/blog/ssis-architecture</link>
+		<comments>https://bigclasses.com/blog/ssis-architecture#respond</comments>
+		<pubDate>Mon, 28 Sep 2015 07:50:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MicroSoft]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[MSBI SSIS Online Training]]></category>
+		<category><![CDATA[SQL Server Intergration Service]]></category>
+		<category><![CDATA[SSIS Architecture]]></category>
+		<category><![CDATA[SSIS Data Flow Engine/Pipeline]]></category>
+		<category><![CDATA[SSIS Runtime Engine]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3974</guid>
+		<description><![CDATA[SQL Server Intergration Service (SSIS) Architecture Introduction This is an ETL tool a product of  Microsoft. Integration services is a platform used in building high-performance data integration and workflow solutions,..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/ssis-architecture/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction to MSBI</title>
+		<link>https://bigclasses.com/blog/introduction-to-msbi</link>
+		<comments>https://bigclasses.com/blog/introduction-to-msbi#respond</comments>
+		<pubDate>Sat, 26 Sep 2015 14:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[DBMS]]></category>
+		<category><![CDATA[Introduction to MSBI]]></category>
+		<category><![CDATA[msbi tools]]></category>
+		<category><![CDATA[sql server online training]]></category>
+		<category><![CDATA[sql server training]]></category>
+		<category><![CDATA[SSAS]]></category>
+		<category><![CDATA[SSIS]]></category>
+		<category><![CDATA[SSRS]]></category>
+
+		<guid isPermaLink="false">http://bigclasses.com/blog/?p=3966</guid>
+		<description><![CDATA[Introduction to MSBI : Definition:  MSBI stands for “MicroSoft Business Intelligence”. It is a set of tools and techniques, which provide the best solutions for Business Intelligence procedures. These tools make..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/introduction-to-msbi/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introducing MSBI Training for Long-term Business Plan</title>
+		<link>https://bigclasses.com/blog/introducing-msbi-training-for-long-term-business-plan</link>
+		<comments>https://bigclasses.com/blog/introducing-msbi-training-for-long-term-business-plan#respond</comments>
+		<pubDate>Wed, 04 Dec 2013 13:20:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[msbi course]]></category>
+		<category><![CDATA[msbi online training]]></category>
+		<category><![CDATA[MSBI TRAINING]]></category>
+		<category><![CDATA[MSBI tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2734</guid>
+		<description><![CDATA[Whenever you have already planned for a business, then you need to think about your cash resources. Sometime you will see business failure. The main reasons behind it are careless..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/introducing-msbi-training-for-long-term-business-plan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MSBI Online Training – Anywhere, Anytime</title>
+		<link>https://bigclasses.com/blog/msbi-online-training-anywhere-anytime</link>
+		<comments>https://bigclasses.com/blog/msbi-online-training-anywhere-anytime#respond</comments>
+		<pubDate>Mon, 18 Nov 2013 14:37:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[msbi course]]></category>
+		<category><![CDATA[msbi online training]]></category>
+		<category><![CDATA[MSBI TRAINING]]></category>
+		<category><![CDATA[MSBI tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2622</guid>
+		<description><![CDATA[MSBI is a popular software online training course in the domain of Business Intelligence. BigClasses is one of the renowned online training portal which provide MSBI training. Our MSBI online..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/msbi-online-training-anywhere-anytime/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MicroSoft Business Intelligence (MSBI) Online Training</title>
+		<link>https://bigclasses.com/blog/microsoft-business-intelligence-online-training</link>
+		<comments>https://bigclasses.com/blog/microsoft-business-intelligence-online-training#respond</comments>
+		<pubDate>Tue, 05 Nov 2013 12:54:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[msbi course]]></category>
+		<category><![CDATA[msbi online training]]></category>
+		<category><![CDATA[MSBI TRAINING]]></category>
+		<category><![CDATA[MSBI tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2536</guid>
+		<description><![CDATA[What is MSBI? MSBI stands for Microsoft Business Intelligence. It provides best solutions for Business Intelligence Queries. MSBI gives the user to get up-to-date information for decision making for the..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microsoft-business-intelligence-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prerequisites for MSBI online training</title>
+		<link>https://bigclasses.com/blog/prerequisites-for-msbi-online-training</link>
+		<comments>https://bigclasses.com/blog/prerequisites-for-msbi-online-training#respond</comments>
+		<pubDate>Fri, 17 May 2013 08:36:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[msbi course]]></category>
+		<category><![CDATA[msbi online training]]></category>
+		<category><![CDATA[MSBI TRAINING]]></category>
+		<category><![CDATA[MSBI tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=2133</guid>
+		<description><![CDATA[What is MSBI? The concepts of MSBI mainly rotate through these parts.   Integration Services (SSIS)  Analysis Services (SSAS)   Reporting Services(SSRS) Prerequisites: A good knowledge on SQL server 2008..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/prerequisites-for-msbi-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MSBI SSRS Online Training</title>
+		<link>https://bigclasses.com/blog/msbi-ssrs-online-training</link>
+		<comments>https://bigclasses.com/blog/msbi-ssrs-online-training#respond</comments>
+		<pubDate>Sat, 30 Mar 2013 10:10:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[msbi course]]></category>
+		<category><![CDATA[msbi online training]]></category>
+		<category><![CDATA[MSBI SSIS training]]></category>
+		<category><![CDATA[MSBI SSRS Online Training]]></category>
+		<category><![CDATA[MSBI SSRS Training]]></category>
+		<category><![CDATA[MSBI TRAINING]]></category>
+		<category><![CDATA[MSBI tutorial]]></category>
+		<category><![CDATA[SQL Server]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1387</guid>
+		<description><![CDATA[Microsoft&#8217;s Business Intelligence is the ultimate powerful solution for development of corporate level Data Extraction, Management, Decision Making and Reporting systems. SQL Server and .NET professionals can make use of this..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/msbi-ssrs-online-training/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MicroSoft BI Online Course Introduction</title>
+		<link>https://bigclasses.com/blog/microsoft-bi-online-course-introduction</link>
+		<comments>https://bigclasses.com/blog/microsoft-bi-online-course-introduction#respond</comments>
+		<pubDate>Mon, 18 Mar 2013 08:46:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DWH]]></category>
+		<category><![CDATA[MSBI]]></category>
+		<category><![CDATA[.NET Assemblies]]></category>
+		<category><![CDATA[Adding calculated members]]></category>
+		<category><![CDATA[Basic syntax]]></category>
+		<category><![CDATA[Data Mining dimensions]]></category>
+		<category><![CDATA[Launching BIDS]]></category>
+		<category><![CDATA[micosoft business intelligence]]></category>
+		<category><![CDATA[msbi]]></category>
+		<category><![CDATA[msbi classes]]></category>
+		<category><![CDATA[msbi online training]]></category>
+		<category><![CDATA[MSBI TRAINING]]></category>
+		<category><![CDATA[sas in bids]]></category>
+		<category><![CDATA[Using multiple fact tables]]></category>
+		<category><![CDATA[What and why?]]></category>
+		<category><![CDATA[what is microsoft bi]]></category>
+
+		<guid isPermaLink="false">http://www.bigclasses.com/blog/?p=1253</guid>
+		<description><![CDATA[Today most of the organizations are running on Microsoft business intelligence that combines business intelligence tools with SQL Server, SharePoint, and office products. As the technology from Microsoft advances it..]]></description>
+		<wfw:commentRss>https://bigclasses.com/blog/microsoft-bi-online-course-introduction/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
